@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file  -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# World's Best Hospitals 2021
+
+This is the third year that Newsweek has partnered with Statista Inc, the respected global data research firm, to reveal the World's Best Hospitals— and it may be our most important ranking yet.
+
+### DevOps
+
+RStudio's IDE is launched in a Docker and accessed through the browser (http://localhost:8787).
+
+```yaml
+docker run --name newsweek -d -p 8787:8787 -v $(pwd):/home/rstudio -e PASSWORD=pwd rocker/verse:3.6.3
+```
+
+The Docker image from *rocker/verse* has R version 3.6.3 and some packages installed, saving us from having to reinstall.
+
+```{R}
+sessionInfo()
+```
+
+The version list of the used R packages.
+
+```{R}
+libs <- c("RCurl","curl","jsonlite","readr","dplyr","purrr","ggplot2","lubridate","flexdashboard","DT","dygraphs","xts")
+ip <- installed.packages(fields = c("Package", "Version"))
+ip <- ip[ip[,c("Package")] %in% libs,]
+paste(ip[,c("Package")],ip[,c("Version")])
+```
+
