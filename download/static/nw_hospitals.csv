@@ -1,0 +1,1877 @@
+Country,Countryrank,Hospital,Score,City,Year
+USA,1,Mayo Clinic - Rochester,98.43,Rochester,2021
+USA,2,Cleveland Clinic,92.36,Cleveland,2021
+USA,3,Massachusetts General Hospital,89.05,Boston,2021
+USA,4,The Johns Hopkins Hospital,84.59,Baltimore,2021
+USA,5,Stanford Health Care - Stanford Hospital,79.92,Stanford,2021
+USA,6,Ronald Reagan UCLA Medical Center,79.78,Los Angeles,2021
+USA,7,The Mount Sinai Hospital,79.75,New York,2021
+USA,8,University of Michigan Hospitals - Michigan Medicine,79.63,Ann Arbor,2021
+USA,9,Brigham And Women's Hospital,79.34,Boston,2021
+USA,10,New York-Presbyterian Hospital-Columbia and Cornell,78.81,New York,2021
+USA,11,Duke University Hospital,78.62,Durham,2021
+USA,12,Mayo Clinic - Phoenix,78.26,Phoenix,2021
+USA,13,Cedars-Sinai Medical Center,78.18,Los Angeles,2021
+USA,14,UCLA Medical Center - Santa Monica,78.12,Santa Monica,2021
+USA,15,Northwestern Memorial Hospital,78.03,Chicago,2021
+USA,16,Hospital of the University of Pennsylvania - Penn Presbyterian,77.94,Philadelphia,2021
+USA,17,UCSF Medical Center,77.56,San Francisco,2021
+USA,18,Houston Methodist Hospital,77.04,Houston,2021
+USA,19,Rush University Medical Center,77.03,Chicago,2021
+USA,20,Mayo Clinic - Jacksonville,76.29,Jacksonville,2021
+USA,21,NYU Langone Hospitals,75.99,New York,2021
+USA,22,University of Washington Medical Center,75.63,Seattle,2021
+USA,23,UCHealth University of Colorado Hospital,74.9,Aurora,2021
+USA,24,Vanderbilt University Medical Center,74.58,Nashville,2021
+USA,25,Barnes-Jewish Hospital,73.99,Saint Louis,2021
+USA,26,University of Chicago Medical Center,73.46,Chicago,2021
+USA,27,University of California - Davis Medical Center,73.32,Sacramento,2021
+USA,28,University of Wisconsin Hospitals,73.3,Madison,2021
+USA,29,Scripps Memorial Hospital La Jolla,73.23,La Jolla,2021
+USA,30,Emory University Hospital,73.23,Atlanta,2021
+USA,31,Beth Israel Deaconess Medical Center,73.17,Boston,2021
+USA,32,University Hospitals Cleveland Medical Center,73.08,Cleveland,2021
+USA,33,Yale New Haven Hospital,72.97,New Haven,2021
+USA,34,Morristown Medical Center,72.9,Morristown,2021
+USA,35,UC San Diego Health - Jacobs Medical Center,72.86,San Diego,2021
+USA,36,OHSU Hospital,72.82,Portland,2021
+USA,37,Baylor St. Luke's Medical Center,72.78,Houston,2021
+USA,38,Mercy Hospital St. Louis,72.61,Saint Louis,2021
+USA,39,Keck Hospital of USC,72.59,Los Angeles,2021
+USA,40,Torrance Memorial Medical Center,72.24,Torrance,2021
+USA,41,Cleveland Clinic Fairview Hospital,71.96,Cleveland,2021
+USA,42,University of Kansas Hospital,71.93,Kansas City,2021
+USA,43,Hackensack University Medical Center,71.48,Hackensack,2021
+USA,44,UT Southwestern Medical Center,71.34,Dallas,2021
+USA,45,CentraCare - St. Cloud Hospital,71.33,Saint Cloud,2021
+USA,46,UAB Hospital,71.25,Birmingham,2021
+USA,47,Baylor University Medical Center,71.24,Dallas,2021
+USA,48,Virginia Mason Medical Center,71.11,Seattle,2021
+USA,49,Nebraska Medicine - Nebraska Medical Center,70.82,Omaha,2021
+USA,50,Tufts Medical Center,70.58,Boston,2021
+USA,51,University of Virginia Medical Center,70.47,Charlottesville,2021
+USA,52,University of Utah Hospital,70.29,Salt Lake City,2021
+USA,53,Memorial Hermann-Texas Medical Center,69.71,Houston,2021
+USA,54,Medical City Dallas Hospital,69.65,Dallas,2021
+USA,55,UPMC Presbyterian & Shadyside,69.56,Pittsburgh,2021
+USA,56,Loyola University Medical Center,69.55,Maywood,2021
+USA,57,Cleveland Clinic - Florida,69.53,Weston,2021
+USA,58,St. Luke's Regional Medical Center,69.45,Boise,2021
+USA,59,Providence St. Vincent Medical Center,69.44,Portland,2021
+USA,60,Brigham And Women's Faulkner Hospital,69.41,Boston,2021
+USA,61,Advocate Good Samaritan Hospital,69.4,Downers Grove,2021
+USA,62,Aurora St. Luke's Medical Center,69.37,Milwaukee,2021
+USA,63,Miami Valley Hospital,69.36,Dayton,2021
+USA,64,St. Luke's Hospital of Kansas City,69.34,Kansas City,2021
+USA,65,Inova Fairfax Hospital,69.33,Falls Church,2021
+USA,66,St. Joseph Mercy Chelsea,69.3,Chelsea,2021
+USA,67,University of Minnesota Medical Center,69.25,Minneapolis,2021
+USA,68,University of Maryland Medical Center,69.25,Baltimore,2021
+USA,69,Mayo Clinic - Health System In Eau Claire,69.24,Eau Claire,2021
+USA,70,ChristianaCare,69.23,Newark,2021
+USA,71,Tampa General Hospital,69.16,Tampa,2021
+USA,72,Jefferson Health - Thomas Jefferson University Hospitals,69.16,Philadelphia,2021
+USA,73,University of Kentucky - Albert B. Chandler Hospital,69.15,Lexington,2021
+USA,74,Northwestern Medicine Central DuPage Hospital,69.15,Winfield,2021
+USA,75,Ohio State University - Wexner Medical Center,69.15,Columbus,2021
+USA,76,Christ Hospital,69.14,Cincinnati,2021
+USA,77,Penn State Health - Milton S. Hershey Medical Center,69.13,Hershey,2021
+USA,78,Sharp Memorial Hospital,69.12,San Diego,2021
+USA,79,Indiana University Health - North Hospital,69.1,Carmel,2021
+USA,80,Johns Hopkins Bayview Medical Center,69.1,Baltimore,2021
+USA,81,Indiana University Health West Hospital,69.07,Avon,2021
+USA,82,Sanford USD Medical Center,69.04,Sioux Falls,2021
+USA,83,VCU Medical Center,69.03,Richmond,2021
+USA,84,Inova Alexandria Hospital,69.01,Alexandria,2021
+USA,85,Penn Medicine Chester County Hospital,69,West Chester,2021
+USA,86,MUSC Health-University Medical Center,69,Charleston,2021
+USA,87,Newton-Wellesley Hospital,68.97,Newton,2021
+USA,88,MemorialCare Long Beach Medical Center,68.97,Long Beach,2021
+USA,89,UnityPoint Health - Meriter,68.95,Madison,2021
+USA,90,Froedtert Hospital and the Medical College of Wisconsin,68.94,Milwaukee,2021
+USA,91,Mission Hospital,68.93,Mission Viejo,2021
+USA,92,Reading Hospital,68.89,Reading,2021
+USA,93,Emory Saint Joseph's Hospital,68.88,Atlanta,2021
+USA,94,Umass Memorial Medical Center,68.87,Worcester,2021
+USA,95,UNC REX Hospital,68.87,Raleigh,2021
+USA,96,Dartmouth-Hitchcock Medical Center,68.8,Lebanon,2021
+USA,97,Advocate Lutheran General Hospital,68.8,Park Ridge,2021
+USA,98,El Camino Hospital,68.75,Mountain View,2021
+USA,99,Hoag Memorial Hospital Presbyterian,68.73,Newport Beach,2021
+USA,100,Baystate Medical Center,68.72,Springfield,2021
+USA,101,Roper Hospital,68.62,Charleston,2021
+USA,102,St. Luke's Hospital Bethlehem,68.55,Bethlehem,2021
+USA,103,Intermountain Medical Center,68.51,Murray,2021
+USA,104,Boone Hospital Center,68.51,Columbia,2021
+USA,105,The Moses H. Cone Memorial Hospital,68.51,Greensboro,2021
+USA,106,Kaiser Permanente Santa Clara Medical Center,68.49,Santa Clara,2021
+USA,107,Maine Medical Center,68.41,Portland,2021
+USA,108,Memorial Hermann - Memorial City Medical Center,68.35,Houston,2021
+USA,109,Abbott Northwestern Hospital,68.33,Minneapolis,2021
+USA,110,Henry Ford Hospital,68.25,Detroit,2021
+USA,111,University of Iowa Hospitals and Clinics,68.24,Iowa City,2021
+USA,112,Cleveland Clinic Akron General,68.23,Akron,2021
+USA,113,University of North Carolina Hospitals,68.21,Chapel Hill,2021
+USA,114,John Muir Health - Walnut Creek Medical Center,68.14,Walnut Creek,2021
+USA,115,CarolinaEast Medical Center,67.91,New Bern,2021
+USA,116,Lahey Hospital and Medical Center,67.84,Burlington,2021
+USA,117,Baylor Scott & White Medical Center,67.8,Temple,2021
+USA,118,Queen's Medical Center,67.79,Honolulu,2021
+USA,119,Northwestern Medicine - Delnor Hospital,67.75,Geneva,2021
+USA,120,Carolinas Medical Center,67.73,Charlotte,2021
+USA,121,Anne Arundel Medical Center,67.7,Annapolis,2021
+USA,122,Sarasota Memorial Hospital,67.63,Sarasota,2021
+USA,123,ProMedica Toledo Hospital,67.6,Toledo,2021
+USA,124,Regions Hospital,67.6,Saint Paul,2021
+USA,125,Kaiser Permanente Woodland Hills Medical Center,67.59,Woodland Hills,2021
+USA,126,Mills-Peninsula Medical Center,67.58,Burlingame,2021
+USA,127,Providence Portland Medical Center,67.56,Portland,2021
+USA,128,Silver Cross Hospital,67.53,New Lenox,2021
+USA,129,"Beaumont Hospital, Royal Oak",67.51,Royal Oak,2021
+USA,130,Fairview Southdale Hospital,67.47,Edina,2021
+USA,131,Parker Adventist Hospital,67.43,Parker,2021
+USA,132,Valley Hospital,67.42,Ridgewood,2021
+USA,133,Swedish Medical Center,67.41,Seattle,2021
+USA,134,University of Cincinnati Medical Center,67.37,Cincinnati,2021
+USA,135,Bon Secours St. Francis Hospital,67.36,Charleston,2021
+USA,136,Mission Hospital,67.3,Asheville,2021
+USA,137,Cleveland Clinic - Hillcrest Hospital,67.28,Mayfield Heights,2021
+USA,138,Palomar Medical Center,67.23,Escondido,2021
+USA,139,St. Patrick Hospital,67.22,Missoula,2021
+USA,140,UC Irvine Medical Center,67.2,Orange,2021
+USA,141,Sharp Chula Vista Medical Center,67.19,Chula Vista,2021
+USA,142,Doylestown Hospital,67.18,Doylestown,2021
+USA,143,UnityPoint Health - St. Luke's Hospital,67.16,Cedar Rapids,2021
+USA,144,Sparrow Hospital,67.15,Lansing,2021
+USA,145,North Shore University Hospital,67.12,Manhasset,2021
+USA,146,St. Francis Hospital & Medical Center,67.09,Hartford,2021
+USA,147,St. Jude Medical Center,67.01,Fullerton,2021
+USA,148,Santa Barbara Cottage Hospital,67.01,Santa Barbara,2021
+USA,149,Lancaster General Hospital,67.01,Lancaster,2021
+USA,150,Lankenau Medical Center,66.98,Wynnewood,2021
+USA,151,Baylor Scott & White Medical Center,66.98,Plano,2021
+USA,152,Sentara Williamsburg Regional Medical Center,66.94,Williamsburg,2021
+USA,153,John Muir Medical Center - Concord Campus,66.93,Concord,2021
+USA,154,"Beaumont Hospital, Grosse Pointe",66.92,Grosse Pointe,2021
+USA,155,Holland Hospital,66.91,Holland,2021
+USA,156,Strong Memorial Hospital - University of Rochester,66.85,Rochester,2021
+USA,157,Providence Little Company of Mary Medical Center,66.78,Torrance,2021
+USA,158,EvergreenHealth Medical Center,66.78,Kirkland,2021
+USA,159,St. Joseph's Hospital - BayCare,66.72,Tampa,2021
+USA,160,Northern Light Mercy Hospital,66.72,Portland,2021
+USA,161,Saint Joseph Medical Center,66.71,Towson,2021
+USA,162,Saratoga Hospital,66.7,Saratoga Springs,2021
+USA,163,St. Vincent Healthcare,66.69,Billings,2021
+USA,164,Overlook Medical Center,66.68,Summit,2021
+USA,165,St. Lukes Hospital,66.67,Chesterfield,2021
+USA,166,Saint Francis Hospital,66.59,Tulsa,2021
+USA,167,Legacy Salmon Creek Medical Center,66.59,Vancouver,2021
+USA,168,United Regional Health Care System,66.5,Wichita Falls,2021
+USA,169,AMITA Health Adventist Medical Center,66.48,Hinsdale,2021
+USA,170,Duke Regional Hospital,66.47,Durham,2021
+USA,171,Adventhealth Orlando,66.46,Orlando,2021
+USA,172,"Beaumont Hospital, Troy",66.43,Troy,2021
+USA,173,Advocate Christ Medical Center,66.36,Oak Lawn,2021
+USA,174,Kaiser Permanente San Diego Medical Center & Zion Medical Center,66.36,San Diego,2021
+USA,175,UCHealth Poudre Valley Hospital,66.35,Fort Collins,2021
+USA,176,St. Francis Downtown,66.33,Greenville,2021
+USA,177,Edward Hospital,66.33,Naperville,2021
+USA,178,Emory Johns Creek Hospital,66.22,Johns Creek,2021
+USA,179,St. David's Medical Center,66.21,Austin,2021
+USA,180,Sky Ridge Medical Center,66.19,Lone Tree,2021
+USA,181,WVU Medicine,66.19,Morgantown,2021
+USA,182,Mercy St. Anne Hospital,66.18,Toledo,2021
+USA,183,MedStar Georgetown University Hospital,66.15,Washington,2021
+USA,184,Sentara Norfolk General Hospital,66.1,Norfolk,2021
+USA,185,Morton Plant Hospital,66.08,Clearwater,2021
+USA,186,University of Texas Health Science Center at Tyler,66.07,Tyler,2021
+USA,187,University of Missouri Health Care,65.99,Columbia,2021
+USA,188,Kaiser Permanente Los Angeles Medical Center,65.98,Los Angeles,2021
+USA,189,Baptist Hospital of Miami,65.92,Miami,2021
+USA,190,Jewish Hospital - Mercy Health,65.92,Cincinnati,2021
+USA,191,Utah Valley Hospital,65.87,Provo,2021
+USA,192,Fairview Ridges Hospital,65.87,Burnsville,2021
+USA,193,Henry Ford West Bloomfield Hospital,65.87,West Bloomfield,2021
+USA,194,Griffin Hospital,65.82,Derby,2021
+USA,195,Indiana University Health Medical Center,65.81,Indianapolis,2021
+USA,196,Baylor Scott & White - Round Rock Medical Center,65.8,Round Rock,2021
+USA,197,Southcoast Hospitals Group,65.79,Fall River,2021
+USA,198,Inova Fair Oaks Hospital,65.77,Fairfax,2021
+USA,199,Henrico Doctors' Hospital,65.77,Richmond,2021
+USA,200,Huntington Memorial Hospital,65.69,Pasadena,2021
+USA,201,Porter Adventist Hospital,65.69,Denver,2021
+USA,202,SSM Health - St. Mary's Hospital,65.68,Jefferson City,2021
+USA,203,Blanchard Valley Hospital,65.67,Findlay,2021
+USA,204,Evanston Hospital,65.67,Evanston,2021
+USA,205,Sentara Princess Anne Hospital,65.66,Virginia Beach,2021
+USA,206,Harborview Medical Center,65.66,Seattle,2021
+USA,207,Scripps Green Hospital,65.6,La Jolla,2021
+USA,208,Texas Health Southwest - Harris Methodist Hospital,65.59,Fort Worth,2021
+USA,209,Avera McKennan Hospital and University Health Center,65.58,Sioux Falls,2021
+USA,210,Billings Clinic Hospital,65.57,Billings,2021
+USA,211,Virginia Hospital Center,65.52,Arlington,2021
+USA,212,Tulane Medical Center,65.52,New Orleans,2021
+USA,213,Straub Clinic And Hospital,65.5,Honolulu,2021
+USA,214,Fulton County Health Center,65.5,Wauseon,2021
+USA,215,Community Hospital East,65.43,Indianapolis,2021
+USA,216,Willis Knighton Medical Center,65.41,Shreveport,2021
+USA,217,Wentworth-Douglass Hospital,65.34,Dover,2021
+USA,218,Salem Hospital,65.33,Salem,2021
+USA,219,Kaiser Permanente Moanalua (Hawaii) Medical Center,65.27,Honolulu,2021
+USA,220,LDS Hospital,65.27,Salt Lake City,2021
+USA,221,Aurora Baycare Medical Center,65.2,Green Bay,2021
+USA,222,Memorial Hospital of South Bend,65.18,South Bend,2021
+USA,223,Firsthealth Moore Regional Hospital,65.16,Pinehurst,2021
+USA,224,Holy Cross Hospital,65.13,Fort Lauderdale,2021
+USA,225,Baptist Medical Center - Beaches,65.07,Jacksonville Beach,2021
+USA,226,The Medical Center of Aurora,65.06,Aurora,2021
+USA,227,Bellin Memorial Hospital,64.98,Green Bay,2021
+USA,228,Advocate Illinois Masonic Medical Center,64.97,Chicago,2021
+USA,229,Community Memorial Hospital,64.93,Menomonee Falls,2021
+USA,230,Southwest Health Center - Platteville,64.91,Platteville,2021
+USA,231,SSM Health St. Mary's Hospital - Madison,64.91,Madison,2021
+USA,232,Asante Rogue Regional Medical Center,64.89,Medford,2021
+USA,233,Newark Beth Israel Medical Center,64.85,Newark,2021
+USA,234,Banner University Medical Center Tucson,64.81,Tucson,2021
+USA,235,Mayo Clinic Health System - Albert Lea And Austin,64.8,Albert Lea,2021
+USA,236,Mclaren Northern Michigan,64.77,Petoskey,2021
+USA,237,Northwestern Lake Forest Hospital,64.75,Lake Forest,2021
+USA,238,Methodist Willowbrook Hospital,64.73,Houston,2021
+USA,239,Southwest General - Middleburg Heights Medical Center,64.67,Middleburg Heights,2021
+USA,240,Saint Thomas West Hospital,64.67,Nashville,2021
+USA,241,St. Joseph Medical Center,64.66,Bloomington,2021
+USA,242,California Pacific Medical Center,64.61,San Francisco,2021
+USA,243,Mayo Clinic Healthcare System - Franciscan Medical Center,64.61,La Crosse,2021
+USA,244,St. Johns Medical Center,64.59,Jackson,2021
+USA,245,MedStar Good Samaritan Hospital,64.51,Baltimore,2021
+USA,246,Wooster Community Hospital,64.49,Wooster,2021
+USA,247,Logan Regional Hospital,64.47,Logan,2021
+USA,248,Sharp Coronado Hospital,64.4,Coronado,2021
+USA,249,Advocat Sherman Hospital,64.34,Elgin,2021
+USA,250,St. Vincent Indianapolis Hospital,64.34,Indianapolis,2021
+USA,251,Park Nicollet Methodist Hospital,64.33,Saint Louis Park,2021
+USA,252,Dignity Health - Northridge Hospital Medical Center,64.21,Northridge,2021
+USA,253,Main Line Hospital,64.19,Paoli,2021
+USA,254,Aultman Hospital,64.11,Canton,2021
+USA,255,Presence Saints Mary And Elizabeth Medical Center,64.09,Chicago,2021
+USA,256,Mount Nittany Medical Center,64.04,State College,2021
+USA,257,MedStar Union Memorial Hospital,63.97,Baltimore,2021
+USA,258,St. Mary's Regional Medical Center,63.95,Enid,2021
+USA,259,Cape Cod Hospital,63.9,Hyannis,2021
+USA,260,Inova Loudoun Hospital,63.89,Leesburg,2021
+USA,261,Health One - Rose Medical Center,63.87,Denver,2021
+USA,262,Baptist Health Lexington,63.86,Lexington,2021
+USA,263,Fayette Medical Center,63.86,Fayette,2021
+USA,264,Inova Mount Vernon Hospital,63.79,Alexandria,2021
+USA,265,Mary Greeley Medical Center,63.78,Ames,2021
+USA,266,Seton Medical Center Hays,63.67,Kyle,2021
+USA,267,Mercy Regional Medical Center,63.66,Ville Platte,2021
+USA,268,Pali Momi Medical Center,63.64,Aiea,2021
+USA,269,Ascension St. Vincent Carmel Hospital,63.64,Carmel,2021
+USA,270,Gundersen Lutheran Medical Center,63.62,La Crosse,2021
+USA,271,Community Hospital of the Monterey Peninsula,63.56,Monterey,2021
+USA,272,Health One - The Medical Center of Aurora,63.51,Grafton,2021
+USA,273,Cape Canaveral Hospital,63.49,Cocoa Beach,2021
+USA,274,Union General Hospital,63.47,Blairsville,2021
+USA,275,Elmhurst Memorial Hospital,63.46,Elmhurst,2021
+USA,276,Barton Memorial Hospital,63.45,South Lake Tahoe,2021
+USA,277,Mercy Iowa City,63.41,Iowa City,2021
+USA,278,Confluence Health - Central Washington Hospital,63.41,Wenatchee,2021
+USA,279,Main Line Hospital - Bryn Mawr Campus,63.4,Bryn Mawr,2021
+USA,280,Northwestern Medicine Mchenry Hospital,63.4,Mchenry,2021
+USA,281,Perham Health Clinic,63.34,Perham,2021
+USA,282,Ochsner Lafayette General Medical Center,63.31,Lafayette,2021
+USA,283,Aurora Sheboygan Memorial Medical Center,63.3,Sheboygan,2021
+USA,284,Shannon Medical Center,63.29,San Angelo,2021
+USA,285,St. George Regional Hospital River Road,63.26,St George,2021
+USA,286,Dignity Health - Sequoia Hospital,63.25,Redwood City,2021
+USA,287,Ochsner University Hospital & Clinics,63.23,Lafayette,2021
+USA,288,Catholic Medical Center,63.21,Manchester,2021
+USA,289,Johnston Health,63.16,Smithfield,2021
+USA,290,Good Samaritan Medical Center,63.15,Lafayette,2021
+USA,291,MercyOne Dubuque Medical Center,63.13,Dubuque,2021
+USA,292,AdventHealth Shawnee Mission,63.07,Shawnee Mission,2021
+USA,293,UCHealth - Medical Center of The Rockies,63.04,Loveland,2021
+USA,294,Sentara - Martha Jefferson Hospital,63.02,Charlottesville,2021
+USA,295,Clay County Hospital,62.93,Ashland,2021
+USA,296,Sentara Leigh Hospital,62.9,Norfolk,2021
+USA,297,Atrium Health Lincoln,62.85,Lincolnton,2021
+USA,298,AMITA Health - Adventist Medical Center La Grange,62.82,La Grange,2021
+USA,299,Stillwater Medical Center,62.82,Stillwater,2021
+USA,300,St. Luke's Magic Valley Medical Center,62.76,Twin Falls,2021
+USA,301,Baylor Scott & White - Waxahachie Medical Center,62.67,Waxahachie,2021
+USA,302,Dignity Health - Mercy Gilbert Medical Center,62.63,Gilbert,2021
+USA,303,Providence Medford Medical Center,62.6,Medford,2021
+USA,304,Geisinger Medical Center,62.53,Danville,2021
+USA,305,OhioHealth Riverside Methodist Hospital,62.49,Columbus,2021
+USA,306,Brookings Hospital,62.45,Brookings,2021
+USA,307,Kettering Health - Sycamore Medical Center,62.45,Miamisburg,2021
+USA,308,Sidney & Lois Eskenazi Hospital,62.42,Indianapolis,2021
+USA,309,Northside Hospital Forsyth,62.37,Cumming,2021
+USA,310,Missouri Baptist Medical Center,62.37,Town And Country,2021
+USA,311,SSM Health - St. Mary's Hospital,62.28,Centralia,2021
+USA,312,Fairview Park Hospital,62.28,Dublin,2021
+USA,313,Community Hospital South,62.27,Indianapolis,2021
+USA,314,Lutheran Health Network - Lutheran Hospital,62.22,Cleveland,2021
+USA,315,Kadlec Regional Medical Center,62.12,Richland,2021
+USA,316,Catawba Valley Medical Center,62.11,Hickory,2021
+USA,317,Memorial Hospital And Health Care Center,62.05,Jasper,2021
+USA,318,Williamson Medical Center,61.99,Franklin,2021
+USA,319,St. David's - North Austin Medical Center,61.93,Austin,2021
+USA,320,Saint Luke's East Hospital,61.91,Lees Summit,2021
+USA,321,Cleveland Clinic Avon Hospital,61.9,Avon,2021
+USA,322,Firelands Regional Medical Center,61.9,Sandusky,2021
+USA,323,Christus Mother Frances - Hospital Tyler,61.89,Tyler,2021
+USA,324,Lifespan - Newport Hospital,61.86,Newport,2021
+USA,325,Thibodaux Regional Medical Center,61.79,Thibodaux,2021
+USA,326,BayCare - Mease Dunedin Hospital,61.69,Dunedin,2021
+USA,327,Jupiter Medical Center,61.64,Jupiter,2021
+USA,328,ProHealth - Waukesha Memorial Hospital,61.51,Waukesha,2021
+USA,329,Kalispell Regional Medical Center,61.48,Kalispell,2021
+USA,330,St. Clair Hospital,61.46,Pittsburgh,2021
+USA,331,East Alabama Medical Center,61.44,Opelika,2021
+USA,332,HSHS - St. Josephs Hospital,61.42,Chippewa Falls,2021
+USA,333,Wellstar Paulding Hospital,61.39,Hiram,2021
+USA,334,St. Joseph Mercy Hospital,61.33,Ann Arbor,2021
+Austria,1,Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus,91.27,Wien,2021
+Austria,2,Landeskrankenhaus Universitätskliniken Innsbruck,87.49,Innsbruck,2021
+Austria,3,Landeskrankenhaus - Universitätsklinikum Graz,81.11,Graz,2021
+Austria,4,Landeskrankenhaus Salzburg - Universitätsklinikum der PMU,79.62,Salzburg,2021
+Austria,5,Ordensklinikum Linz Elisabethinen,78.98,Linz,2021
+Austria,6,Linz Kepler Universitätsklinikum,78.74,Linz,2021
+Austria,7,Österreichische Gesundheitskasse - Mein Hanusch-Krankenhaus,77.83,Wien,2021
+Austria,8,Krankenhaus der Barmherzigen Schwestern Wien,76.68,Wien,2021
+Austria,9,Landesklinikum Wiener Neustadt,76.48,Wiener Neustadt,2021
+Austria,10,Krankenhaus St. Vinzenz Zams,76.46,Zams,2021
+Austria,11,Kardinal Schwarzenberg Klinikum,76.33,Schwarzach im Pongau,2021
+Austria,12,St. Josef-Krankenhaus,76.1,Wien,2021
+Austria,13,Klinikum Wels-Grieskirchen,76,Wels,2021
+Austria,14,KRAGES - Landeskrankenhaus Oberpullendorf,75.95,Oberpullendorf,2021
+Austria,15,Klinikum - Klagenfurt am Wörthersee,75.6,Klagenfurt am Wörthersee,2021
+Austria,16,Ordensklinikum Linz Barmherzige Schwestern,75.37,Linz,2021
+Austria,17,KRAGES - Landeskrankenhaus Güssing,75.12,Güssing,2021
+Austria,18,Landesklinikum Klosterneuburg,74.87,Klosterneuburg,2021
+Austria,19,Landesklinikum Neunkirchen,74.79,Neunkirchen,2021
+Austria,20,Wiener Gesundheitsverbund Klinik Donaustadt,73.9,Wien,2021
+Austria,21,Wiener Gesundheitsverbund - Klinik Landstraße,73.51,Wien,2021
+Austria,22,Universitätsklinikum St. Pölten,73.48,St. Pölten,2021
+Austria,23,Klinikum Rohrbach,73.44,Rohrbach in Oberösterreich,2021
+Austria,24,Krankenhaus der Barmherzigen Brüder Eisenstadt,73.31,Eisenstadt,2021
+Austria,25,Salzkammergut-Klinikum,73.24,Vöcklabruck,2021
+Austria,26,Krankenhaus der Stadt Dornbirn,73.23,Dornbirn,2021
+Austria,27,Wiener Privatklinik,73.21,Wien,2021
+Austria,28,Bezirkskrankenhaus Schwaz,73.13,Schwaz,2021
+Austria,29,Krankenhaus der Barmherzigen Brüder Linz,73.1,Linz,2021
+Canada,1,Toronto General - University Health Network,92.6,Toronto,2021
+Canada,2,Sunnybrook Health Sciences Centre,91.28,Toronto,2021
+Canada,3,Mount Sinai Hospital,89.35,Toronto,2021
+Canada,4,North York General Hospital,86.36,Toronto,2021
+Canada,5,Jewish General Hospital,84.5,Montreal,2021
+Canada,6,VCH - Vancouver General Hospital,81.07,Vancouver,2021
+Canada,7,Rockyview General Hospital,80.87,Calgary,2021
+Canada,8,Centre hospitalier de l'Université de Montréal,80.86,Montreal,2021
+Canada,9,St. Michael’s Hospital,80.59,Toronto,2021
+Canada,10,Toronto Western - University Health Network,80.47,Toronto,2021
+Canada,11,Montreal General Hospital - McGill University Health Centre,80.16,Montreal,2021
+Canada,12,Foothills Medical Centre,79.06,Calgary,2021
+Canada,13,Queen Elizabeth II Health Sciences Centre,78.72,Halifax,2021
+Canada,14,The Royal Victoria Hospital - McGill University Health Centre,78.58,Montreal,2021
+Canada,15,Hamilton Health Sciences - McMaster University Medical Centre,75.69,Hamilton,2021
+Canada,16,Queensway Carleton Hospital,74.62,Ottawa,2021
+Canada,17,Royal Jubilee Hospital,74.5,Victoria,2021
+Canada,18,Peter Lougheed Centre,74.25,Calgary,2021
+Canada,19,Royal Columbian Hospital,74.23,New Westminster,2021
+Canada,20,Lachine Hospital - McGill University Health Centre,74.21,Lachine,2021
+Canada,21,The Ottawa Hospital,74.01,Ottawa,2021
+Canada,22,VCH - UBC Hospital,73.83,Vancouver,2021
+Canada,23,Humber River Hospital,73.82,Toronto,2021
+Canada,24,University of Alberta Hospital,73.68,Edmonton,2021
+Canada,25,Grace Hospital,73.19,Winnipeg,2021
+Canada,26,Victoria General Hospital,73.17,Victoria,2021
+Canada,27,Grey Nuns Community Hospital - Covenant Health,73.06,Edmonton,2021
+Canada,28,St. Joseph’s Healthcare Hamilton,73,Hamilton,2021
+Canada,29,Royal Alexandra Hospital,72.98,Edmonton,2021
+Canada,30,Southlake Regional Health Centre,72.94,Newmarket,2021
+Canada,31,Kelowna General Hospital,72.72,Kelowna,2021
+Canada,32,St. Paul’s Hospital,72.56,Saskatoon,2021
+Canada,33,The Credit Valley Hospital,72.44,Mississauga,2021
+Canada,34,William Osler Health System - Etobicoke General Hospital,72.09,Toronto,2021
+Canada,35,St. Boniface Hospital,72.01,Winnipeg,2021
+Canada,36,Kingston General Hospital,71.82,Kingston,2021
+Canada,37,CHUL - CHU de Québec-Université Laval,71.69,Quebec City,2021
+Canada,38,Bluewater Health,71.69,Sarnia,2021
+Canada,39,Saskatoon City Hospital,71.63,Saskatoon,2021
+Canada,40,Misericordia Community Hospital - Covenant Health,71.62,Edmonton,2021
+Canada,41,Juravinski Hospital,71.46,Hamilton,2021
+Canada,42,Halton Healthcare - Oakville Trafalgar Memorial Hospital,71.32,Oakville,2021
+Canada,43,Toronto East Health Network - Michael Garron Hospital,71.31,Toronto,2021
+Canada,44,Mackenzie Richmond Hill Hospital,71,Richmond Hill,2021
+Canada,45,Seven Oaks General Hospital,70.95,Winnipeg,2021
+Canada,46,Dr. Georges-L.-Dumont University Hospital Centre,70.86,Moncton,2021
+Canada,47,St. Mary’s Hospital Centre,70.83,Montreal,2021
+Canada,48,VCH - Richmond Hospital,70.55,Richmond,2021
+Canada,49,Victoria General Hospital,70.53,Winnipeg,2021
+Canada,50,St. Joseph’s Health Centre,70.48,Toronto,2021
+Canada,51,Victoria Hospital - London Health Sciences Centre,70.37,London,2021
+Canada,52,Royal University Hospital,70.06,Saskatoon,2021
+Canada,53,Hamilton Health Sciences - Hamilton General Hospital,70.04,Hamilton,2021
+Canada,54,Joseph Brant Hospital,69.96,Burlington,2021
+Canada,55,Hopital Maisonneuve-Rosemont,69.91,Montreal,2021
+Canada,56,Markham Stouffville Hospital – Markham Site,69.5,Markham,2021
+Canada,57,Nova Scotia Health - Valley Regional Hospital,69.49,Kentville,2021
+Canada,58,Trillium Health Partner - Mississauga Hospital,69.43,Mississauga,2021
+Canada,59,Horizon Health Network - Saint John Regional Hospital,69.25,Saint John,2021
+Canada,60,VCH - Lions Gate Hospital,69.24,North Vancouver,2021
+Canada,61,Hôpital Montfort,69.22,Ottawa,2021
+Canada,62,Hôpital du Sacré-Coeur de Montréal,69.17,Montreal,2021
+Canada,63,William Osler Health System - Brampton Civic Hospital,69.06,Brampton,2021
+Canada,64,Peterborough Regional Health Centre,68.82,Peterborough,2021
+Canada,65,Scarborough Health Network - Centenary hospital,68.68,Toronto,2021
+Canada,66,Queen Elizabeth Hospital,68.45,Charlottetown,2021
+France,1,AP-HP - Hôpital Universitaire Pitié Salpêtrière,91.99,Paris,2021
+France,2,AP-HP - Hôpital Européen Georges Pompidou,90.85,Paris,2021
+France,3,CHU Lille - Hôpital Claude-Huriez,84.71,Lille,2021
+France,4,CHU Bordeaux - Groupe hospitalier Pellegrin,82.85,Bordeaux,2021
+France,5,Hôpital Paris Saint-Joseph,82.48,Paris,2021
+France,6,CHU Toulouse - Hôpital Purpan,82.43,Toulouse,2021
+France,7,Polyclinique Santé Atlantique,80.08,St Herblain,2021
+France,8,Hospices Civils de Lyon - Hôpital Lyon Sud,80.01,Pierre Benite,2021
+France,9,CHU Strasbourg - Hôpital de Hautepierre,79.95,Strasbourg,2021
+France,10,CHU Grenoble - Site Nord,79.76,La Tronche,2021
+France,11,AP-HM - Hôpital de la Timone,79.59,Marseille,2021
+France,12,CHU Nantes - Site Hôtel-Dieu,79.58,Nantes,2021
+France,13,Clinique Francois Chenieux,79.46,Limoges,2021
+France,14,CHRU Nancy - Hôpital Central,79.39,Nancy,2021
+France,15,AP-HP - Hôpital Henri-Mondor,78.97,Creteil,2021
+France,16,Hospices Civils de Lyon - CHU Louis Pradel,78.92,Bron,2021
+France,17,Elsan - Clinique Saint-Augustin,78.65,Bordeaux,2021
+France,18,AP-HM - Hôpital Nord,78.49,Marseille,2021
+France,19,AP-HP - Hôpital Cochin,78.45,Paris,2021
+France,20,Clinique Pasteur,78.42,Toulouse,2021
+France,21,Hospices Civils de Lyon - Hôpital Edouard Herriot,78.41,Lyon,2021
+France,22,Clinique de l'Anjou,78.22,Angers,2021
+France,23,Hôpital Européen,78.14,Marseille,2021
+France,24,Polyclinique Reims-Bezannes,78.11,Bezannes,2021
+France,25,AP-HP - Hôpital Bichat-Claude-Bernard,78.04,Paris,2021
+France,26,CHU Amiens-Picardie,77.95,Amiens,2021
+France,27,AP-HP - Hôpital Saint-Antoine,77.83,Paris,2021
+France,28,CHU Nîmes - Hopital Carémeau,77.79,Nîmes,2021
+France,29,CHU Tours - Hôpital Bretonneau,76.29,Tours,2021
+France,30,CHU Angers - Site Larrey,76.25,Angers,2021
+France,31,Ramsay Santé - Hopital Prive Jean Mermoz,76.06,Lyon,2021
+France,32,Hôpital Saint-Joseph,75.94,Marseille,2021
+France,33,Hopital Privé de Provence - Polyclinique du Parc Rambot,75.85,Aix En Provence,2021
+France,34,Clinique de L'Europe Rouen,75.79,Rouen,2021
+France,35,Ramsay Santé - Hopital Prive La Louviere,75.77,Lille,2021
+France,36,Hôpitaux Privés de Metz - Hôpital Belle-Isle,75.73,Metz,2021
+France,37,CH Privé - St Grégoire,75.54,St Grégoire,2021
+France,38,CHU Strasbourg - Hôpital Civil,75.43,Strasbourg,2021
+France,39,Hospices Civils de Lyon - Hôpital de la Croix-Rousse,75.4,Lyon,2021
+France,40,Hôpitaux Privés de Metz - Hôpital Robert Schuman,75.36,Vantoux,2021
+France,41,Hopital Americain,75.25,Neuilly Sur Seine,2021
+France,42,Clinique Rhena Association,75.24,Strasbourg,2021
+France,43,CHU Lyon - Hôpital Renée Sabran,75.23,Hyeres,2021
+France,44,CHU Rennes - Site Pontchaillou,75.18,Rennes,2021
+France,45,Elsan - Hôpital Privé la Châtaigneraie,74.9,Beaumont,2021
+France,46,Hôpital Albert Schweitzer,74.89,Colmar,2021
+France,47,CHU Dijon-Bourgogne - Hopital François Mitterant,74.77,Dijon,2021
+France,48,CHU Bordeaux - Hôpital Saint-André,74.76,Bordeaux,2021
+France,49,Elsan - Polyclinique de Gentilly,74.66,Nancy,2021
+France,50,AH-HP - Hôpital Antoine Béclère,74.64,Clamart,2021
+France,51,Clinique Saint-George,74.54,Nice,2021
+France,52,Clinique Mutualiste Jules-Vernes,74.42,Nantes,2021
+France,53,Ramsay Santé - Hopital Prive Dijon Bourgogne,74.14,Dijon,2021
+France,54,CHU Nice - Hôpital Pasteur,74.11,Nice,2021
+France,55,AP-HP - Hôpital Saint-Louis,74.07,Paris,2021
+France,56,Médipôle de Savoie,73.98,Challes Les Eaux,2021
+France,57,Infirmerie Protestante de Lyon,73.96,Caluire Et Cuire,2021
+France,58,Ramsay Santé - Clinique de l'Union,73.96,St. Jean,2021
+France,59,Ramsay Santé - Hopital Privé Le Bois,73.89,Lille,2021
+France,60,CHU Saint-Étienne - Hôpital Bellevue,73.78,St Etienne,2021
+France,61,Ramsay Santé - Hopital Prive de La Loire,73.71,St. Etienne,2021
+France,62,AP-HP - Hôpital Bicêtre,73.7,Le Kremlin Bicetre,2021
+France,63,Centre Hospitalier Ouest Reunion,73.51,St Paul,2021
+France,64,Institut Mutualiste Montsouris,73.38,Paris,2021
+France,65,Clinique Rive-Gauche,73.36,Toulouse,2021
+France,66,Ramsay Santé - Clinique des Cèdres,73.34,Cornebarrieu,2021
+France,67,Clinique Saint Germain,73.3,St Germain En Laye,2021
+France,68,Pôle santé Oréliance,73.27,Saran,2021
+France,69,CHU Clermont-Ferrand - CHU Gabriel-Montpied,73.26,Clermont Ferrand,2021
+France,70,Elsan - CHP Brest - Polyclinique de Keraudren,73.2,Brest,2021
+France,71,Hôpital Privé du Confluent,73.07,Nantes,2021
+France,72,Clinique Internationale Parc Monceau,73.03,Paris,2021
+France,73,Ramsay Santé - Hôpital Privé Clairval,72.95,Marseille,2021
+France,74,Centre Hospitalier Grasse,72.89,Grasse,2021
+France,75,CHU Toulouse - Hôpital Rangueil,72.83,Toulouse,2021
+France,76,CHU Caen Normandie - Hôpital Côte de Nacre,72.8,Caen,2021
+France,77,AP-HP - Hôpital Albert Chenevier,72.79,Creteil,2021
+France,78,CHU Grenoble - Site Sud,72.78,Echirolles,2021
+France,79,Hôpital Privé des Côtes-d'Armor,72.74,Plerin,2021
+France,80,CH Colmar - Hôpital Louis Pasteur,72.69,Colmar,2021
+France,81,Ramsay Santé - Hôpital Privé Saint-Martin,72.68,Caen,2021
+France,82,Centre Hospitalier Toulon - Hôpital Sainte Musse,72.55,Toulon,2021
+France,83,Nouvelle Clinique Bel-Air,72.54,Bordeaux,2021
+France,84,Centre Hospitalier Le Mans,72.47,Le Mans,2021
+France,85,Clinique Mutualiste de La Sagesse,72.46,Rennes,2021
+France,86,CHU Montpellier - Hopital Lapeyronie,72.43,Montpellier,2021
+France,87,Hopital de La Croix Saint Simon,72.23,Paris,2021
+France,88,CHU Poitiers - La Milétrie,72.22,Poitiers,2021
+France,89,CH Valenciennes,72.22,Valenciennes,2021
+France,90,CHU Brest - Hôpital Morvan,72.21,Brest,2021
+France,91,Elsan - Polyclinique Médipôle Saint-Roch,72.21,Cabestany,2021
+France,92,Elsan - Clinique Saint-Pièrre,72.21,Perpignan,2021
+France,93,CHU Rouen Normandie - Hôpital Charles-Nicolle,72.19,Rouen,2021
+France,94,Centre Hospitalier Saint-Brieuc - Hôpital Yves Le Foll,72.14,St Brieuc,2021
+France,95,Hôpital Foch,72.07,Suresnes,2021
+France,96,Clinique de Saint Joseph,72.03,St Joseph,2021
+France,97,CHR Metz-Thionville - Hôpital de Mercy,72.02,Ars Laquenexy,2021
+France,98,CHI Créteil,71.82,Creteil,2021
+France,99,Groupement des Hôpitaux de l'Institut Catholique de Lille - Hôpital Saint Vincent de Paul,71.8,Lille,2021
+France,100,AP-HP - Hôpital Lariboisière,71.63,Paris,2021
+France,101,CH Annecy Genevois - site Annecy,71.61,Annecy,2021
+France,102,Elsan - Polyclinique de Poitiers,71.6,Poitiers,2021
+France,103,Centre Hospitalier de Cannes,71.54,Cannes,2021
+France,104,Centre Hospitalier de Cornouaille - Site de Laënnec,71.48,Quimper,2021
+France,105,Ramsay Santé - Hôpital Privé Bois Bernard,71.47,Bois Bernard,2021
+France,106,CHRU Nancy - Hôpitaux de Brabois,71.42,Vandoeuvre Les Nancy,2021
+France,107,CHU Lille - Hôpital Salengro,71.39,Lille,2021
+France,108,CHU Besançon - Hôpital Jean Minjoz,71.23,Besançon,2021
+France,109,Ramsay Santé - Clinique La Croix du Sud,71.21,Quint-Fonsegrives,2021
+France,110,Clinique Belledonne,71.16,Saint-Martin-d'Hères,2021
+France,111,Pôle Santé Léonard-de-Vinci,71.05,Chambray Les Tours,2021
+France,112,Centre Hospitalier Saint Joseph et Saint Luc,70.62,Lyon,2021
+France,113,Ramsay Santé - Clinique Belharra,70.58,Bayonne,2021
+France,114,AP-HP - Hôpital Tenon,70.38,Paris,2021
+France,115,Polyclinique Saint-Roch,70.27,Montpellier,2021
+France,116,Ramsay Santé - Hôpital Privé d'Antony,70.18,Antony,2021
+France,117,Elsan - Polyclinique Vauban,70.16,Valenciennes,2021
+France,118,Centre Hospitalier Privé Sainte Marie,70.12,Osny,2021
+Germany,1,Charité - Universitätsmedizin Berlin,93.16,Berlin,2021
+Germany,2,Universitätsklinikum Heidelberg,92.8,Heidelberg,2021
+Germany,3,Klinikum der Universität München,84.11,München,2021
+Germany,4,Klinikum rechts der Isar der Technischen Universität München,83.84,München,2021
+Germany,5,Medizinische Hochschule Hannover,83.32,Hannover,2021
+Germany,6,Universitätsklinikum Tübingen,83.06,Tübingen,2021
+Germany,7,Universitätsklinikum Hamburg-Eppendorf,82.55,Hamburg,2021
+Germany,8,Universitätsklinikum Freiburg,82.28,Freiburg,2021
+Germany,9,Universitätsklinikum Köln,82.06,Köln,2021
+Germany,10,Universitätsklinikum Essen,81.7,Essen,2021
+Germany,11,Universitätsklinikum Erlangen,80.66,Erlangen,2021
+Germany,12,Universitätsklinikum Regensburg,80.63,Regensburg,2021
+Germany,13,Universitätsklinikum Carl Gustav Carus Dresden,80.25,Dresden,2021
+Germany,14,Universitätsmedizin der Johannes Gutenberg-Universität Mainz,79.46,Mainz,2021
+Germany,15,Universitätsklinikum Ulm,79.28,Ulm,2021
+Germany,16,Universitätsklinikum Würzburg,79.06,Würzburg,2021
+Germany,17,Universitätsklinikum Düsseldorf,79.01,Düsseldorf,2021
+Germany,18,Universitätsklinikum Bonn,78.82,Bonn,2021
+Germany,19,Universitätsklinikum des Saarlandes,78.12,Homburg,2021
+Germany,20,Universitätsklinikum RWTH Aachen,77.87,Aachen,2021
+Germany,21,Robert-Bosch-Krankenhaus,77.4,Stuttgart,2021
+Germany,22,Universitätsklinikum Schleswig-Holstein - Campus Kiel,76.09,Kiel,2021
+Germany,23,Universitätsklinikum Leipzig,75.95,Leipzig,2021
+Germany,24,Universitätsklinikum Jena,75.35,Jena,2021
+Germany,25,Universitätsklinikum Münster,75.28,Münster,2021
+Germany,26,Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil,75.09,Bochum,2021
+Germany,27,Universitätsklinikum Frankfurt,74.8,Frankfurt am Main,2021
+Germany,28,Universitätsmedizin Greifswald,74.6,Greifswald,2021
+Germany,29,BG Klinikum Bergmannstrost Halle,74.49,Halle (Saale),2021
+Germany,30,Asklepios Klinik Barmbek,74.43,Hamburg,2021
+Germany,31,Universitätsmedizin Göttingen,74,Göttingen,2021
+Germany,32,Universitätsklinikum Schleswig-Holstein - Campus Lübeck,73.93,Lübeck,2021
+Germany,33,München Klinik Bogenhausen,73.77,München,2021
+Germany,34,Marienhospital Stuttgart,73.37,Stuttgart,2021
+Germany,35,Klinikum Nürnberg Nord,73.25,Nürnberg,2021
+Germany,36,Kliniken der Stadt Köln - Krankenhaus Merheim,73.11,Köln,2021
+Germany,37,Asklepios Klinik St. Georg,73.09,Hamburg,2021
+Germany,38,St. Franziskus-Hospital Münster,73.09,Münster,2021
+Germany,39,Albertinen-Krankenhaus,73.07,Hamburg,2021
+Germany,40,BundeswehrZentralkrankenhaus Koblenz,72.88,Koblenz,2021
+Germany,41,Helios Park-Klinikum Leipzig,72.85,Leipzig,2021
+Germany,42,Universitätsklinikum Mannheim,72.81,Mannheim,2021
+Germany,43,Isar Klinikum,72.74,München,2021
+Germany,44,Städtisches Klinikum Dresden - Standort Friedrichstadt,72.74,Dresden,2021
+Germany,45,Universitätsklinikum Gießen und Marburg - Standort Marburg,72.73,Marburg,2021
+Germany,46,Asklepios Klinik Altona,72.5,Hamburg,2021
+Germany,47,Klinikum Nürnberg Süd,72.5,Nürnberg,2021
+Germany,48,Krankenhaus Hedwigshöhe Berlin,72.39,Berlin,2021
+Germany,49,Krankenhaus der Barmherzigen Brüder Regensburg,72.34,Regensburg,2021
+Germany,50,Universitätsklinikum Magdeburg,72.33,Magdeburg,2021
+Germany,51,Klinikum Stuttgart - Katharinenhospital,72.27,Stuttgart,2021
+Germany,52,Krankenhaus Martha-Maria Halle-Dölau,72.27,Halle (Saale),2021
+Germany,53,Krankenhaus der Barmherzigen Brüder Trier,72.23,Trier,2021
+Germany,54,Klinikum Dortmund Nord,72.23,Dortmund,2021
+Germany,55,Kliniken Essen-Mitte - Standort Essen-Huttrop,72.19,Essen,2021
+Germany,56,St. Hedwig-Krankenhaus Berlin,72.16,Berlin,2021
+Germany,57,Schön Klinik Hamburg Eilbek,72.08,Hamburg,2021
+Germany,58,Universitätsklinikum Knappschaftskrankenhaus Bochum,71.95,Bochum,2021
+Germany,59,Schön Klinik Neustadt,71.84,Neustadt in Holstein,2021
+Germany,60,Waldkliniken Eisenberg,71.83,Eisenberg,2021
+Germany,61,Bundeswehrkrankenhaus Berlin,71.6,Berlin,2021
+Germany,62,Bundeswehrkrankenhaus Ulm,71.58,Ulm,2021
+Germany,63,Universitätsklinikum Halle (Saale),71.54,Halle (Saale),2021
+Germany,64,Städtisches Klinikum Karlsruhe,71.53,Karlsruhe,2021
+Germany,65,DRK Kliniken Berlin Köpenick,71.42,Berlin,2021
+Germany,66,St. Elisabeth-Krankenhaus Leipzig,71.37,Leipzig,2021
+Germany,67,Universitätsmedizin Rostock,71.27,Rostock,2021
+Germany,68,Krankenhaus Nordwest,71.23,Frankfurt am Main,2021
+Germany,69,Brüderhaus Koblenz,71.2,Koblenz,2021
+Germany,70,Zentralklinik Bad Berka,71.2,Bad Berka,2021
+Germany,71,Israelitisches Krankenhaus Hamburg,71.16,Hamburg,2021
+Germany,72,Evangelisches Krankenhaus Königin Elisabeth Herzberge,71.1,Berlin,2021
+Germany,73,HELIOS Klinikum Erfurt,71.08,Erfurt,2021
+Germany,74,Klinikum der Stadt Ludwigshafen am Rhein,71.05,Ludwigshafen,2021
+Germany,75,Alfried Krupp Krankenhaus Rüttenscheid,71.02,Essen,2021
+Germany,76,St. Johannes-Hospital Dortmund,70.99,Dortmund,2021
+Germany,77,Agaplesion Markus Krankenhaus,70.92,Frankfurt am Main,2021
+Germany,78,St. Josef-Hospital Bochum,70.89,Bochum,2021
+Germany,79,Gemeinschaftskrankenhaus Bonn - Haus St. Petrus,70.8,Bonn,2021
+Germany,80,Diakonissenkrankenhaus Dresden,70.78,Dresden,2021
+Germany,81,Klinikum der Universität Augsburg,70.78,Augsburg,2021
+Germany,82,Herzogin Elisabeth Hospital,70.74,Braunschweig,2021
+Germany,83,SRH Klinikum Karlsbad-Langensteinbach,70.69,Karlsbad,2021
+Germany,84,Vivantes Humboldt-Klinikum,70.69,Berlin,2021
+Germany,85,Klinikum St. Elisabeth Straubing,70.55,Straubing,2021
+Germany,86,Diakonie-Klinikum Stuttgart,70.45,Stuttgart,2021
+Germany,87,Universitätsklinikum Gießen und Marburg - Standort Gießen,70.39,Gießen,2021
+Germany,88,Klinikum Fulda,70.34,Fulda,2021
+Germany,89,Krankenhaus St. Joseph-Stift Dresden,70.32,Dresden,2021
+Germany,90,Caritas-Krankenhaus St. Josef,70.21,Regensburg,2021
+Germany,91,Bürgerhospital Frankfurt,70.14,Frankfurt am Main,2021
+Germany,92,DRK Kliniken Berlin Westend,70.07,Berlin,2021
+Germany,93,Krankenhaus der Augustinerinnen,69.93,Köln,2021
+Germany,94,SRH Wald-Klinikum Gera,69.93,Gera,2021
+Germany,95,Katholisches Marienkrankenhaus Hamburg,69.88,Hamburg,2021
+Germany,96,Krankenhaus Spremberg,69.88,Spremberg,2021
+Germany,97,Klinikum Ingolstadt,69.85,Ingolstadt,2021
+Germany,98,Kreisklinikum Siegen,69.85,Siegen,2021
+Germany,99,Ludgerus-Kliniken Münster - Clemenshospital,69.77,Münster,2021
+Germany,100,Schwarzwald-Baar Klinikum Villingen-Schwenningen,69.74,Villingen-Schwenningen,2021
+Germany,101,Helios Klinikum Berlin-Buch,69.74,Berlin,2021
+Germany,102,Sana Klinikum Offenbach,69.7,Offenbach,2021
+Germany,103,Städtisches Klinikum Braunschweig gGmbH,69.69,Braunschweig,2021
+Germany,104,München Klinik Neuperlach,69.68,München,2021
+Germany,105,Klinikum Dritter Orden - München-Nymphenburg,69.68,München,2021
+Germany,106,St. Elisabeth-Krankenhaus Köln,69.67,Köln,2021
+Germany,107,St. Vincenz und Elisabeth Hospital Mainz,69.66,Mainz,2021
+Germany,108,Evangelisches Klinikum Bethel - Standort Johannesstift,69.66,Bielefeld,2021
+Germany,109,St. Josefs-Hospital,69.65,Wiesbaden,2021
+Germany,110,Klinikum Esslingen,69.65,Esslingen am Neckar,2021
+Germany,111,Gemeinschaftskrankenhaus Havelhöhe,69.62,Berlin,2021
+Germany,112,Klinikum Kassel,69.59,Kassel,2021
+Germany,113,Klinikum Würzburg Mitte - Juliusspital,69.54,Würzburg,2021
+Germany,114,Städtisches Klinikum Dresden - Standort Neustadt,69.32,Dresden,2021
+Germany,115,Klinikum Darmstadt,69.3,Darmstadt,2021
+Germany,116,Benedictus Krankenhaus,69.27,Tutzing,2021
+Germany,117,Agaplesion Diakonieklinikum Hamburg,69.25,Hamburg,2021
+Germany,118,Klinikum Ludwigsburg,69.22,Ludwigsburg,2021
+Germany,119,Krankenhaus Salem der Evang. Stadtmission Heidelberg,69.2,Heidelberg,2021
+Germany,120,Klinikum St. Georg Leipzig,69.09,Leipzig,2021
+Germany,121,Klinikum St. Marien,68.96,Amberg,2021
+Germany,122,Krankenhaus Waldfriede e.V.,68.94,Berlin,2021
+Germany,123,Krankenhaus Bad Cannstatt,68.88,Stuttgart,2021
+Germany,124,Krankenhaus St. Franziskus,68.88,Mönchengladbach,2021
+Germany,125,SLK-Kliniken Heilbronn GmbH - Klinikum am Plattenwald,68.85,Bad Friedrichshall,2021
+Germany,126,Kliniken Erlabrunn,68.83,Breitenbrunn,2021
+Germany,127,Barmherzige Brüder Krankenhaus München,68.81,München,2021
+Germany,128,Klinikum Bremen-Mitte,68.78,Bremen,2021
+Germany,129,HELIOS Klinikum Krefeld,68.61,Krefeld,2021
+Germany,130,Krankenhaus Martha-Maria Nürnberg,68.56,Nürnberg,2021
+Germany,131,Klinikum Links der Weser,68.39,Bremen,2021
+Germany,132,Evangelisches Waldkrankenhaus Spandau,68.38,Berlin,2021
+Germany,133,Klinikum Garmisch-Partenkirchen,68.32,Garmisch-Partenkirchen,2021
+Germany,134,St.-Antonius-Hospital,68.26,Eschweiler,2021
+Germany,135,Herz-Jesu-Krankenhaus Fulda,68.23,Fulda,2021
+Germany,136,Klinikum Südstadt Rostock,68.19,Rostock,2021
+Germany,137,"Gemeinschaftskrankenhaus Bonn, Haus St. Elisabeth",68.17,Bonn,2021
+Germany,138,Elisabeth-Krankenhaus Essen,68.09,Essen,2021
+Germany,139,Vivantes Klinikum im Friedrichshain,68.01,Berlin,2021
+Germany,140,St. Vinzenz-Hospital,67.9,Köln,2021
+Germany,141,DRK-Krankenhaus Mecklenburg-Strelitz,67.9,Neustrelitz,2021
+Germany,142,Franziskus Hospital Bielefeld,67.87,Bielefeld,2021
+Germany,143,Diakonissenkrankenhaus Flensburg,67.83,Flensburg,2021
+Germany,144,Rotes Kreuz Krankenhaus Bremen,67.77,Bremen,2021
+Germany,145,Sana Klinikum Lichtenberg,67.75,Berlin,2021
+Germany,146,Collm Klinik Oschatz,67.7,Oschatz,2021
+Germany,147,Alb-Donau Klinikum Standort Langenau,67.63,Langenau,2021
+Germany,148,Diakovere Friederikenstift,67.6,Hannover,2021
+Germany,149,Bundeswehrkrankenhaus Hamburg,67.58,Hamburg,2021
+Germany,150,Agaplesion Diakonieklinikum Rotenburg,67.58,Rotenburg (Wümme),2021
+Germany,151,Bonifatius Hospital Lingen,67.53,Lingen,2021
+Germany,152,Klinikum Landshut,67.53,Landshut,2021
+Germany,153,Evangelisches Krankenhaus Essen-Steele,67.5,Essen,2021
+Germany,154,Knappschaftskrankenhaus Bottrop,67.42,Bottrop,2021
+Germany,155,St. Anna Krankenhaus,67.37,Sulzbach-Rosenberg,2021
+Germany,156,Klinikum Wolfsburg,67.37,Wolfsburg,2021
+Germany,157,Klinikum Fürth,67.37,Fürth,2021
+Germany,158,Karl-Olga-Krankenhaus,67.36,Stuttgart,2021
+Germany,159,St. Marien-Krankenhaus Siegen,67.34,Siegen,2021
+Germany,160,Vivantes Auguste-Viktoria-Klinikum,67.34,Berlin,2021
+Germany,161,Klinikum Leverkusen,67.34,Leverkusen,2021
+Germany,162,Caritas-Krankenhaus Bad Mergentheim,67.33,Bad Mergentheim,2021
+Germany,163,SHG-Kliniken Völklingen,67.32,Völklingen,2021
+Germany,164,Klinikum Ernst von Bergmann,67.31,Potsdam,2021
+Germany,165,Vivantes Klinikum Spandau,67.31,Berlin,2021
+Germany,166,Klinikum Saarbrücken,67.27,Saarbrücken,2021
+Germany,167,DRK-Krankenhaus Clementinenhaus,67.26,Hannover,2021
+Germany,168,Marienkrankenhaus Kassel,67.23,Kassel,2021
+Germany,169,GFO Kliniken Bonn - Betriebstätte St. Marien,67.23,Bonn,2021
+Germany,170,Evangelisches Diakoniekrankenhaus,67.18,Freiburg,2021
+Germany,171,Vivantes Klinikum Am Urban,67.17,Berlin,2021
+Germany,172,Asklepios Klinikum Harburg,67.15,Hamburg,2021
+Switzerland,1,Centre Hospitalier Universitaire Vaudois,93.4,Lausanne,2021
+Switzerland,2,Universitätsspital Zürich,92.15,Zürich,2021
+Switzerland,3,Universitätsspital Basel,91.93,Basel,2021
+Switzerland,4,Les Hôpitaux Universitaires de Genève (HUG) - Cluse-Roseraie,89.71,Genève,2021
+Switzerland,5,Klinik Hirslanden Zürich,89.09,Zürich,2021
+Switzerland,6,Claraspital,86.97,Basel,2021
+Switzerland,7,Lindenhofspital Bern,79.21,Bern,2021
+Switzerland,8,Stadtspital Triemli,79.17,Zürich,2021
+Switzerland,9,Hirslanden Klinik Aarau,78.71,Aarau,2021
+Switzerland,10,Clinique Générale-Beaulieu,78.03,Genève,2021
+Switzerland,11,Bethesda Spital,77.19,Basel,2021
+Switzerland,12,Luzerner Kantonsspital,76.06,Luzern,2021
+Switzerland,13,Inselspital Bern,75.85,Bern,2021
+Switzerland,14,Clinique de La Source,75.28,Lausanne,2021
+Switzerland,15,Hirslanden Klinik Im Park,74.23,Zürich,2021
+Switzerland,16,Spital Zollikerberg,74.18,Zollikerberg,2021
+Switzerland,17,Kantonsspital Winterthur,73.29,Winterthur,2021
+Switzerland,18,Hirslanden Klinik St. Anna,73.06,Luzern,2021
+Switzerland,19,Kantonsspital Baden,72.37,Baden,2021
+Switzerland,20,Hôpital de la Tour,71.98,Meyrin,2021
+Switzerland,21,Kantonsspital St. Gallen,71.65,St. Gallen,2021
+Switzerland,22,Zuger Kantonsspital,71.57,Baar,2021
+Switzerland,23,EOC Ospedale Regionale di Locarno - La Carità,71.54,Locarno,2021
+Switzerland,24,Privatklinik Bethanien,71.3,Zürich,2021
+Switzerland,25,Kantonsspital Baselland,71.07,Liestal,2021
+Switzerland,26,Hirslanden Klinik Bern Beau-Site,70.99,Bern,2021
+Switzerland,27,Genolier Clinique,70.96,Genolier,2021
+Canada,1,Toronto General - University Health Network,91.7,Toronto,2020
+Canada,2,Sunnybrook Health Sciences Centre,88.9,Toronto,2020
+Canada,3,Mount Sinai Hospital,87.7,Toronto,2020
+Canada,4,North York General Hospital,87.5,Toronto,2020
+Canada,5,Jewish General Hospital,86,Montreal,2020
+Canada,6,Rockyview General Hospital,85.7,Calgary,2020
+Canada,7,Vancouver General Hospital,84.5,Vancouver,2020
+Canada,8,Foothills Medical Centre,84.3,Calgary,2020
+Canada,9,Montreal General Hospital - McGill University Health Centre,83.3,Montreal,2020
+Canada,10,St. Michael’s Hospital,83.2,Toronto,2020
+Canada,11,Centre hospitalier de l'Université de Montréal,82.6,Montreal,2020
+Canada,12,The Royal Victoria Hospital - McGill University Health Centre,82.2,Montreal,2020
+Canada,13,Toronto Western - University Health Network,81.6,Toronto,2020
+Canada,14,Royal Jubilee Hospital,80.2,Victoria,2020
+Canada,15,Health Sciences Centre Winnipeg,79.8,Winnipeg,2020
+Canada,16,Royal Columbian Hospital,79.7,New Westminster,2020
+Canada,17,Queen Elizabeth II Health Sciences Centre,79,Halifax,2020
+Canada,18,UBC Hospital,79,Vancouver,2020
+Canada,19,Victoria General Hospital,78.8,Victoria,2020
+Canada,20,The Ottawa Hospital,78.7,Ottawa,2020
+Canada,21,Humber River Hospital,78.4,Toronto,2020
+Canada,22,Peter Lougheed Centre,78.3,Calgary,2020
+Canada,23,Queensway Carleton Hospital,78,Ottawa,2020
+Canada,24,St. Joseph’s Healthcare Hamilton,77.3,Hamilton,2020
+Canada,25,St. Paul’s Hospital,77.2,Saskatoon,2020
+Canada,26,Royal Alexandra Hospital,76.4,Edmonton,2020
+Canada,27,Grace Hospital,76.3,Winnipeg,2020
+Canada,28,University of Alberta Hospital,76.2,Edmonton,2020
+Canada,29,Kelowna General Hospital,76.2,Kelowna,2020
+Canada,30,Kingston General Hospital,75.7,Kingston,2020
+Canada,31,Southlake Regional Health Centre,75.1,Newmarket,2020
+Canada,32,Lachine Hospital - McGill University Health Centre,75,Lachine,2020
+Canada,33,Seven Oaks General Hospital,74.8,Winnipeg,2020
+Canada,34,St. Boniface Hospital,74,Winnipeg,2020
+Canada,35,Victoria Hospital - London Health Sciences Centre,73.9,London,2020
+Canada,36,Grey Nuns Community Hospital - Covenant Health,73.8,Edmonton,2020
+Canada,37,Misericordia Community Hospital - Covenant Health,73.6,Edmonton,2020
+Canada,38,Bluewater Health,73.4,Sarnia,2020
+Canada,39,The Credit Valley Hospital,72.2,Mississauga,2020
+Canada,40,Dr. Georges-L.-Dumont University Hospital Centre,71.3,Moncton,2020
+Canada,41,Juravinski Hospital,70.9,Hamilton,2020
+France,1,Hôpital Universitaire Pitié Salpêtrière,92.2,Paris,2020
+France,2,Groupe hospitalier Pellegrin,86.3,Bordeaux,2020
+France,3,Hôpital Claude-Huriez,86,Lille,2020
+France,4,Hôpital Lyon Sud (HCL),85.5,Pierre Benite,2020
+France,5,Hôpital Paris Saint-Joseph,85.3,Paris,2020
+France,6,Hôpital Européen Georges Pompidou,84.5,Paris,2020
+France,7,Hôpital Purpan,84.4,Toulouse,2020
+France,8,Hôpital de Hautepierre,84,Strasbourg,2020
+France,9,Polyclinique Santé Atlantique,83.7,St Herblain,2020
+France,10,Hopital Hôtel-Dieu,83.5,Nantes,2020
+France,11,Clinique Francois Chenieux,83.3,Limoges,2020
+France,12,Hôpital Central - Nancy,83.3,Nancy,2020
+France,13,Hôpitaux Est (HCL),83.1,Bron,2020
+France,14,Clinique Pasteur,82.9,Toulouse,2020
+France,15,Hôpital de la Timone,82.9,Marseille,2020
+France,16,Hôpital Edouard Herriot,82.8,Lyon,2020
+France,17,Hôpital Rangueil,82.8,Toulouse,2020
+France,18,Centre Hospitalier Privé - St Gregoire,82.5,St Gregoire,2020
+France,19,Clinique de l'Anjou,82.4,Angers,2020
+France,20,Hôpital Privé la Châtaigneraie,82.3,Beaumont,2020
+France,21,Hôpital Henri-Mondor,82.2,Creteil,2020
+France,22,Clinique Saint-Augustin,82.2,Bordeaux,2020
+France,23,Hôpital Cochin,82.1,Paris,2020
+France,24,Hôpital Bretonneau,82.1,Tours,2020
+France,25,Hôpital Saint-André,82,Bordeaux,2020
+France,26,Polyclinique de Bezannes,82,Bezannes,2020
+France,27,CHU Grenoble - Site Nord,81.9,La Tronche,2020
+France,28,Hôpital Privé Saint-Martin,81.5,Caen,2020
+France,29,Hôpital Pasteur,81.3,Nice,2020
+France,30,Hôpital Européen,80.9,Marseille,2020
+France,31,Hôpital Privé du Confluent,80.8,Nantes,2020
+France,32,Hôpital Pontchaillou,80.8,Rennes,2020
+France,33,Polyclinique du Parc Rambot - Provencale,80.7,Aix En Provence,2020
+France,34,Hôpital Saint-Antoine,80.5,Paris,2020
+France,35,Clinique Saint-George,80.3,Nice,2020
+France,36,Centre Hospitalier Universitaire -Dijon-Bourgogne,80.1,Dijon,2020
+France,37,Hôpital Saint-Louis,80,Paris,2020
+France,38,Hopital Prive Jean Mermoz,80,Lyon,2020
+France,39,Centre Hospitalier Universitaire de Nîmes,80,Nimes,2020
+France,40,Clinique Rhena Association,79.6,Strasbourg,2020
+France,41,Hôpital Bicêtre,79.5,Le Kremlin Bicetre,2020
+France,42,Hôpital Nord - Marseille,79.4,Marseille,2020
+France,43,Hôpital Jean Minjoz,79.1,Besancon,2020
+France,44,Centre Hospitalier Universitaire - Amiens-Picardie,77.1,Amiens,2020
+France,45,Centre Hospitalier Universitaire - Poitiers,78.9,Poitiers,2020
+France,46,Clinique Mutualiste Jules-Vernes,78.5,Nantes,2020
+France,47,Nouvel Hôpital Civil,78.4,Strasbourg,2020
+France,48,Centre Hospitalier Universitaire - Angers,78.3,Angers,2020
+France,49,Clinique de l'Union,78.3,St. Jean,2020
+France,50,Hôpital Lariboisière,78.3,Paris,2020
+France,51,Hopital Americain,78.3,Neuilly Sur Seine,2020
+France,52,Hôpital Bellevue,78.2,St Etienne,2020
+France,53,Centre Hospitalier de Valenciennes,78,Valenciennes,2020
+France,54,Hopital Prive La Louviere,77.9,Lille,2020
+France,55,Polyclinique de Gentilly,77.9,Nancy,2020
+France,56,Pôle santé Oréliance,77.9,Saran,2020
+France,57,Hopital Lapeyronie,77.7,Montpellier,2020
+France,58,Hôpital Antoine Béclère,77.5,Clamart,2020
+France,59,Hôpital Louis Pasteur,77.5,Colmar,2020
+France,60,Institut Mutualiste Montsouris,77.5,Paris,2020
+France,61,Infirmerie Protestante de Lyon,77.4,Caluire Et Cuire,2020
+France,62,Hôpital de la Croix-Rousse,77.2,Lyon,2020
+France,63,Centre Hospitalier Universitaire de Rouen,77.2,Rouen,2020
+France,64,Polyclinique du Bois,77.2,Lille,2020
+France,65,Hôpital Morvan,77.1,Brest,2020
+France,66,Clinique La Croix du Sud,77.1,Quint-Fonsegrives,2020
+France,67,Centre Hospitalier - Universitaire de Caen,77,Caen,2020
+France,68,Hôpital Albert Schweitzer,77,Colmar,2020
+France,69,Hôpital Belle-Isle,76.9,Metz,2020
+France,70,Hôpital Foch,76.9,Suresnes,2020
+France,71,Centre Hospitalier Intercommunal,76.5,Creteil,2020
+France,72,Hôpital Saint-Joseph,76.5,Marseille,2020
+France,73,Clinique Belharra,76.4,Bayonne,2020
+France,74,Clinique des Cèdres,76.4,Cornebarrieu,2020
+France,75,Hopital Prive de La Loire,76.2,St. Etienne,2020
+France,76,Clinique Rive-Gauche,76.1,Toulouse,2020
+France,77,Hôpital Robert Schuman,76,Vantoux,2020
+France,78,Médipôle de Savoie,75.9,Challes Les Eaux,2020
+France,79,Clinique Belledonne,75.8,Saint-Martin-d'Hères,2020
+France,80,Hopital de La Croix Saint Simon,75.7,Paris,2020
+France,81,Hôpital Bichat - Claude-Bernard,75.7,Paris,2020
+France,82,Pôle Santé Léonard-de-Vinci,75.6,Chambray Les Tours,2020
+France,83,Hôpital Privé Clairval,75.5,Marseille,2020
+France,84,Hôpital Privé des Côtes-d'Armor,75.5,Plerin,2020
+France,85,CHU Gabriel-Montpied,75.5,Clermont Ferrand,2020
+France,86,Centre Hospitalier Universitaire - Limoges Dupuytren,75.1,Limoges,2020
+France,87,Centre Hospitalier - Annecy Genevois,74.8,Annecy,2020
+France,88,Médipôle Lyon,74.6,Villeurbanne,2020
+France,89,Hôpital Renée Sabran,74.6,Hyeres,2020
+France,90,Polyclinique Médipôle Saint-Roch,74.4,Cabestany,2020
+France,91,CHU Grenoble - Site Sud,74.3,Echirolles,2020
+France,92,Hôpital Privé d'Antony,73.8,Antony,2020
+France,93,Clinique Saint-Pièrre,73.7,Perpignan,2020
+France,94,Hôpital Privé Bois Bernard,73.5,Bois Bernard,2020
+France,95,Polyclinique de Poitiers,73.5,Poitiers,2020
+France,96,Nouvelle Clinique Bel-Air,73.2,Bordeaux,2020
+France,97,Hôpital Saint Louis,73.1,La Rochelle,2020
+France,98,Hôpital Maison Blanche,73,Reims (Marne),2020
+France,99,Hôpital Emile Muller,72.9,Mulhouse,2020
+France,100,Polyclinique de Keraudren,72.8,Brest,2020
+France,101,Clinique Esquirol-Saint-Hilaire,72.3,Agen,2020
+France,102,Hopital de Mercy,72.2,Ars Laquenexy,2020
+France,103,Clinique du Pré,72.1,Le Mans,2020
+France,104,Clinique de la Sauvegarde,72.1,Lyon,2020
+France,105,Polyclinique de Courlancy,71.9,Reims,2020
+France,106,Clinique Saint Vincent,71.9,Besançon,2020
+Germany,1,Charité - Universitätsmedizin Berlin,93.1,Berlin,2020
+Germany,2,Universitätsklinikum Heidelberg,90.7,Heidelberg,2020
+Germany,3,Universitätsklinikum Hamburg-Eppendorf,90,Hamburg,2020
+Germany,4,Klinikum der Universität München,87.4,Munich,2020
+Germany,5,Medizinische Hochschule Hannover,87.2,Hanover,2020
+Germany,6,Klinikum rechts der Isar der Technischen Universität München,86.8,Munich,2020
+Germany,7,Universitätsklinikum Köln,85.9,Cologne,2020
+Germany,8,Universitätsklinikum Freiburg,84.9,Freiburg,2020
+Germany,9,Universitätsklinikum Regensburg,84.7,Regensburg,2020
+Germany,10,Universitätsklinikum Carl Gustav Carus Dresden,84.4,Dresden,2020
+Germany,11,Universitätsklinikum Erlangen,84.4,Erlangen,2020
+Germany,12,Universitätsklinikum Würzburg,83.2,Würzburg,2020
+Germany,13,Universitätsmedizin Göttingen,83.1,Göttingen,2020
+Germany,14,Universitätsklinikum Ulm,83,Ulm,2020
+Germany,15,Universitätsmedizin der Johannes Gutenberg-Universität Mainz,82.6,Mainz,2020
+Germany,16,Universitätsklinikum Bonn,82.3,Bonn,2020
+Germany,17,Universitätsklinikum Tübingen,82.2,Tübingen,2020
+Germany,18,Universitätsklinikum Essen,82,Essen,2020
+Germany,19,Universitätsklinikum RWTH Aachen,81.9,Aachen,2020
+Germany,20,Schön Klinik Hamburg Eilbek,81.9,Hamburg,2020
+Germany,21,Universitätsklinikum Leipzig,81.8,Leipzig,2020
+Germany,22,Universitätsklinikum Frankfurt,81.6,Frankfurt am Main,2020
+Germany,23,Universitätsklinikum Schleswig-Holstein - Campus Kiel,81.5,Kiel,2020
+Germany,24,Universitätsklinikum des Saarlandes,81.5,Homburg,2020
+Germany,25,Universitätsklinikum Düsseldorf,81.3,Düsseldorf,2020
+Germany,26,Universitätsklinikum Jena,81,Jena,2020
+Germany,27,Klinikum Nürnberg Nord,81,Nuremberg,2020
+Germany,28,Universitätsklinikum Münster,80.9,Münster,2020
+Germany,29,Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil,80.5,Bochum,2020
+Germany,30,BG Klinikum Bergmannstrost Halle,80.4,Halle (Saale),2020
+Germany,31,Asklepios Klinik St. Georg,80,Hamburg,2020
+Germany,32,Asklepios Klinik Barmbek,80,Hamburg,2020
+Germany,33,Universitätsklinikum Schleswig-Holstein - Campus Lübeck,79.7,Lübeck,2020
+Germany,34,BG-Unfallklinik - Unfallkrankenhaus Berlin,79.6,Berlin,2020
+Germany,35,BundeswehrZentralkrankenhaus Koblenz,79.5,Koblenz,2020
+Germany,36,Universitätsmedizin Greifswald,79.5,Greifswald,2020
+Germany,37,Universitätsklinikum Gießen und Marburg - Standort Marburg,79.5,Marburg,2020
+Germany,38,Bundeswehrkrankenhaus Ulm,79.4,Ulm,2020
+Germany,39,Kliniken der Stadt Köln - Krankenhaus Merheim,79.3,Cologne,2020
+Germany,40,St. Hedwig-Krankenhaus Berlin,79.2,Berlin,2020
+Germany,41,Robert-Bosch-Krankenhaus,79.1,Stuttgart,2020
+Germany,42,Städtisches Klinikum Karlsruhe,78.8,Karlsruhe,2020
+Germany,43,Klinikum Nürnberg Süd,78.7,Nuremberg,2020
+Germany,44,Klinikum Karlsburg,78.7,Karlsburg,2020
+Germany,45,München Klinik Bogenhausen,78.6,Munich,2020
+Germany,46,Krankenhaus der Barmherzigen Brüder Trier,78.6,Trier,2020
+Germany,47,Universitätsklinikum Magdeburg,78.5,Magdeburg,2020
+Germany,48,Helios Park-Klinikum Leipzig,78.3,Leipzig,2020
+Germany,49,Brüderhaus Koblenz,78.3,Koblenz,2020
+Germany,50,Universitätsklinikum Halle (Saale),78.3,Halle (Saale),2020
+Germany,51,Universitätsklinikum Mannheim,78.3,Mannheim,2020
+Germany,52,Schön Klinik Neustadt,78.3,Neustadt in Holstein,2020
+Germany,53,St. Franziskus-Hospital Münster,78.1,Münster,2020
+Germany,54,Marienhospital Stuttgart,78.1,Stuttgart,2020
+Germany,55,Universitätsklinikum Knappschaftskrankenhaus Bochum,78,Bochum,2020
+Germany,56,Albertinen-Krankenhaus,78,Hamburg,2020
+Germany,57,Agaplesion Markus Krankenhaus,77.9,Frankfurt am Main,2020
+Germany,58,Bundeswehrkrankenhaus Berlin,77.9,Berlin,2020
+Germany,59,Klinikum Dortmund Nord,77.9,Dortmund,2020
+Germany,60,Universitätsklinikum Gießen und Marburg - Standort Gießen,77.8,Gießen,2020
+Germany,61,Krankenhaus Martha-Maria Halle-Dölau,77.6,Halle (Saale),2020
+Germany,62,Waldkliniken Eisenberg,77.6,Eisenberg,2020
+Germany,63,St. Josef-Hospital Bochum,77.6,Bochum,2020
+Germany,64,Städtisches Klinikum Braunschweig gGmbH,77.5,Braunschweig,2020
+Germany,65,HELIOS Klinikum Erfurt,77.5,Erfurt,2020
+Germany,66,Asklepios Klinik Altona,77.5,Hamburg,2020
+Germany,67,Städtisches Klinikum Dresden - Standort Friedrichstadt,77.3,Dresden,2020
+Germany,68,Klinikum Stuttgart - Katharinenhospital,77.3,Stuttgart,2020
+Germany,69,Klinikum der Universität Augsburg,77.2,Augsburg,2020
+Germany,70,Zentralklinik Bad Berka,77.2,Bad Berka,2020
+Germany,71,Universitätsmedizin Rostock,77.1,Rostock,2020
+Germany,72,Gemeinschaftskrankenhaus Havelhöhe,76.9,Berlin,2020
+Germany,73,Evangelisches Klinikum Bethel  - Standort Johannesstift,76.9,Bielefeld,2020
+Germany,74,Kliniken Essen-Mitte - Standort Essen-Huttrop,76.9,Essen,2020
+Germany,75,Klinikum der Stadt Ludwigshafen am Rhein,76.9,Ludwigshafen,2020
+Germany,76,Krankenhaus Nordwest,76.8,Frankfurt am Main,2020
+Germany,77,DRK Kliniken Berlin Köpenick,76.8,Berlin,2020
+Germany,78,Alfried Krupp Krankenhaus Rüttenscheid,76.6,Essen,2020
+Germany,79,Isar Klinikum,76.5,Munich,2020
+Germany,80,Klinikum Esslingen,76.1,Esslingen am Neckar,2020
+Germany,81,Krankenhaus der barmherzigen Brüder Regensburg,76,Regensburg,2020
+Germany,82,Evangelisches Krankenhaus Königin Elisabeth Herzberge,75.9,Berlin,2020
+Germany,83,Katholisches Marienkrankenhaus Hamburg,75.9,Hamburg,2020
+Germany,84,Vivantes Humboldt-Klinikum,75.8,Berlin,2020
+Germany,85,Israelitisches Krankenhaus Hamburg,75.7,Hamburg,2020
+Germany,86,Krankenhaus Hedwigshöhe Berin,75.6,Berlin,2020
+Germany,87,Klinikum Ingolstadt,75.1,Ingolstadt,2020
+Germany,88,Gemeinschaftskrankenhaus Bonn - Haus St. Petrus,75.1,Bonn,2020
+Germany,89,SRH Wald-Klinikum Gera,75,Gera,2020
+Germany,90,St. Johannes-Hospital Dortmund,74.9,Dortmund,2020
+Germany,91,St. Elisabeth-Krankenhaus Leipzig,74.8,Leipzig,2020
+Germany,92,Bürgerhospital Frankfurt,74.7,Frankfurt am Main,2020
+Germany,93,Diakovere Friederikenstift,74.5,Hanover,2020
+Germany,94,Klinikum St. Elisabeth Straubing,74.5,Straubing,2020
+Germany,95,Diakonissenkrankenhaus Dresden,74.4,Dresden,2020
+Germany,96,Herzogin Elisabeth Hospital,74.4,Braunschweig,2020
+Germany,97,Helios Klinikum Berlin-Buch,74.4,Berlin,2020
+Germany,98,Klinikum Fulda,74.3,Fulda,2020
+Germany,99,DRK Kliniken Berlin Westend,74.2,Berlin,2020
+Germany,100,Sana Klinikum Offenbach,74.2,Offenbach,2020
+Germany,101,Städtisches Klinikum Dresden - Standort Neustadt,73.9,Dresden,2020
+Germany,102,Fabricius-Klinik Remscheid,73.9,Remscheid,2020
+Germany,103,Krankenhaus der Augustinerinnen,73.8,Cologne,2020
+Germany,104,St. Elisabeth-Krankenhaus Köln,73.8,Cologne,2020
+Germany,105,Klinikum Würzburg Mitte - Juliusspital,73.7,Würzburg,2020
+Germany,106,Klinikum St. Georg Leipzig,73.7,Leipzig,2020
+Germany,107,St. Vincenz und Elisabeth Hospital Maiz,73.7,Mainz,2020
+Germany,108,Diakonissenkrankenhaus Flensburg,73.7,Flensburg,2020
+Germany,109,Krankenhaus St. Joseph-Stift Dresden,73.6,Dresden,2020
+Germany,110,Diakonie-Klinikum Stuttgart,73.5,Stuttgart,2020
+Germany,111,München Klinik Neuperlach,73.4,Munich,2020
+Germany,112,Kreisklinikum Siegen,73.4,Siegen,2020
+Germany,113,Klinikum Ludwigsburg,73.3,Ludwigsburg,2020
+Germany,114,Krankenhaus St. Franziskus,73.3,Mönchengladbach,2020
+Germany,115,Ludgerus-Kliniken Münster - Clemenshospital,73.3,Münster,2020
+Germany,116,Klinikum Kassel,73.2,Kassel,2020
+Germany,117,Klinikum St. Marien,73.2,Amberg,2020
+Germany,118,Klinikum Leverkusen,73.1,Leverkusen,2020
+Germany,119,HELIOS Dr. Horst-Schmidt-Kliniken Wiesbaden,73.1,Wiesbaden,2020
+Germany,120,Schwarzwald-Baar Klinikum Villingen-Schwenningen,73.1,Villingen-Schwenningen,2020
+Germany,121,Johanniter Krankenhaus Bonn,73,Bonn,2020
+Germany,122,Klinikum Darmstadt,73,Darmstadt,2020
+Germany,123,Agaplesion Diakonieklinikum Hamburg,72.9,Hamburg,2020
+Germany,124,Krankenhaus Bad Cannstatt,72.9,Stuttgart,2020
+Germany,125,Klinikum Ernst von Bergmann,72.8,Potsdam,2020
+Germany,126,Benedictus Krankenhaus,72.8,Tutzing,2020
+Germany,127,St.-Antonius-Hospital,72.8,Eschweiler,2020
+Germany,128,Caritas-Krankenhaus St. Josef,72.8,Regensburg,2020
+Germany,129,St. Josefs-Hospital,72.6,Wiesbaden,2020
+Germany,130,Helios Kliniken Schwerin,72.5,Schwerin,2020
+Germany,131,Kliniken Erlabrunn,72.4,Breitenbrunn,2020
+Germany,132,Klinikum Südstadt Rostock,72.3,Rostock,2020
+Germany,133,Sana Klinikum Lichtenberg,72.2,Berlin,2020
+Germany,134,Agaplesion Diakonieklinikum Rotenburg,72.1,Rotenburg (Wümme),2020
+Germany,135,Klinikum Dritter Orden - München-Nymphenburg,71.9,Munich,2020
+Germany,136,HELIOS Klinikum Krefeld,71.8,Krefeld,2020
+Germany,137,Klinikum Links der Weser,71.6,Bremen,2020
+Germany,138,St. Vinzenz-Hospital,71.6,Cologne,2020
+Germany,139,Klinikum am Steinenberg,71.5,Reutlingen,2020
+Germany,140,Malteser Krankenhaus Seliger Gerhard,71.5,Bonn,2020
+Germany,141,Klinikum Bremen-Mitte,71.3,Bremen,2020
+Germany,142,Evangelisches Waldkrankenhaus Spandau,71.2,Berlin,2020
+Germany,143,Krankenhaus Spremberg,71.2,Spremberg,2020
+Germany,144,Vivantes Klinikum Neukölln,70.9,Berlin,2020
+Germany,145,Franziskus Hospital Bielefeld,70.9,Bielefeld,2020
+Germany,146,Vivantes Klinikum Am Urban,70.9,Berlin,2020
+Germany,147,Juraklinik Scheßlitz,70.2,Scheßlitz,2020
+Germany,148,Klinikum Wolfsburg,70.1,Wolfsburg,2020
+Switzerland,1,Universitätsspital Zürich,91.9,Zurich,2020
+Switzerland,2,Centre Hospitalier Universitaire Vaudois,89.8,Lausanne,2020
+Switzerland,3,Les Hôpitaux Universitaires de Genève (HUG) - Cluse-Roseraie,89.4,Geneva,2020
+Switzerland,4,Universitätsspital Basel,88.4,Basel,2020
+Switzerland,5,Inselspital Bern,88.3,Bern,2020
+Switzerland,6,Klinik Hirslanden Zürich,87.6,Zurich,2020
+Switzerland,7,Luzerner Kantonsspital,85.9,Lucerne,2020
+Switzerland,8,Claraspital,83.9,Basel,2020
+Switzerland,9,Lindenhofspital Bern,83,Bern,2020
+Switzerland,10,Stadtspital Triemli,82.6,Zurich,2020
+Switzerland,11,Kantonsspital Aarau,82.5,Aarau,2020
+Switzerland,12,Zuger Kantonsspital,82.1,Baar,2020
+Switzerland,13,Clinique Générale-Beaulieu,82,Geneva,2020
+Switzerland,14,Kantonsspital St. Gallen,81.9,St. Gallen,2020
+Switzerland,15,Hirslanden Klinik Aarau,81.4,Aarau,2020
+Switzerland,16,Clinique de La Source,81.1,Lausanne,2020
+Switzerland,17,Kantonsspital Winterthur,80.8,Winterthur,2020
+Switzerland,18,Hirslanden Klinik St. Anna,80.3,Lucerne,2020
+Switzerland,19,Kantonsspital Baden,80,Baden,2020
+Switzerland,20,Bethesda Spital,79.4,Basel,2020
+Switzerland,21,HFR - Hôpital fribourgeois,79.1,Fribourg,2020
+Switzerland,22,Spital Zollikerberg,78.9,Zollikerberg,2020
+Switzerland,23,Kantonsspital Frauenfeld,78.6,Frauenfeld,2020
+Switzerland,24,Spital Interlaken,78.5,Unterseen,2020
+Switzerland,25,Spitalzentrum Oberwallis (SZO),78.3,Brig,2020
+USA,1,Mayo Clinic - Rochester,97.3,"Rochester, MN",2020
+USA,2,Cleveland Clinic,93.7,"Cleveland, OH",2020
+USA,3,Massachusetts General Hospital,93.3,"Boston, MA",2020
+USA,4,The Johns Hopkins Hospital,92.5,"Baltimore, MD",2020
+USA,5,University of Michigan Hospitals - Michigan Medicine,86.5,"Ann Arbor, MI",2020
+USA,6,Brigham And Women's Hospital,86.2,"Boston, MA",2020
+USA,7,UCSF Medical Center,85.3,"San Francisco, CA",2020
+USA,8,Stanford Health Care - Stanford Hospital,85.3,"Stanford, CA",2020
+USA,9,New York-Presbyterian Hospital-Columbia and Cornell,84.7,"New York, NY",2020
+USA,10,Hospital of the University of Pennsylvania - Penn Presbyterian,84.5,"Philadelphia, PA",2020
+USA,11,Ronald Reagan UCLA Medical Center,84.5,"Los Angeles, CA",2020
+USA,12,University of Colorado Hospital,83.3,"Aurora, CO",2020
+USA,13,Cedars-Sinai Medical Center,83.1,"Los Angeles, CA",2020
+USA,14,The Mount Sinai Hospital,82.6,"New York, NY",2020
+USA,15,Mayo Clinic - Phoenix,82.4,"Phoenix, AZ",2020
+USA,16,Duke University Hospital,82.3,"Durham, NC",2020
+USA,17,NYU Langone Hospitals,82.3,"New York, NY",2020
+USA,18,Northwestern Memorial Hospital,82.3,"Chicago, IL",2020
+USA,19,University of Wisconsin Hospitals,82.2,"Madison, WI",2020
+USA,20,UCLA Medical Center - Santa Monica,82.2,"Santa Monica, CA",2020
+USA,21,University of Washington Medical Center,82,"Seattle, WA",2020
+USA,22,Emory University Hospital,81.8,"Atlanta, GA",2020
+USA,23,University Hospitals Cleveland Medical Center,81.7,"Cleveland, OH",2020
+USA,24,Rush University Medical Center,81.6,"Chicago, IL",2020
+USA,25,Houston Methodist Hospital,81.4,"Houston, TX",2020
+USA,26,Barnes-Jewish Hospital,81.3,"Saint Louis, MO",2020
+USA,27,Vanderbilt University Medical Center,80.9,"Nashville, TN",2020
+USA,28,Scripps Memorial Hospital La Jolla,80.8,"La Jolla, CA",2020
+USA,29,OHSU Hospital,80.6,"Portland, OR",2020
+USA,30,Mayo Clinic - Jacksonville,80.6,"Jacksonville, FL",2020
+USA,31,University of Kansas Hospital,80.3,"Kansas City, KS",2020
+USA,32,Keck Hospital of USC,80.2,"Los Angeles, CA",2020
+USA,33,UPMC Presbyterian & Shadyside,80.1,"Pittsburgh, PA",2020
+USA,34,Cleveland Clinic Fairview Hospital,80,"Cleveland, OH",2020
+USA,35,UT Southwestern Medical Center,80,"Dallas, TX",2020
+USA,36,Mercy Hospital St. Louis,79.8,"Saint Louis, MO",2020
+USA,37,Yale New Haven Hospital,79.7,"New Haven, CT",2020
+USA,38,Morristown Medical Center,79.7,"Morristown, NJ",2020
+USA,39,Ohio State University - Wexner Medical Center,79.7,"Columbus, OH",2020
+USA,40,Beth Israel Deaconess Medical Center,79.6,"Boston, MA",2020
+USA,41,Jefferson Health - Thomas Jefferson University Hospitals,79.4,"Philadelphia, PA",2020
+USA,42,St. Cloud Hospital,79.3,"Saint Cloud, MN",2020
+USA,43,University of California - Davis Medical Center,79.2,"Sacramento, CA",2020
+USA,44,University of Chicago Medical Center,79.2,"Chicago, IL",2020
+USA,45,Advocate Good Samaritan Hospital,78.9,"Downers Grove, IL",2020
+USA,46,University of North Carolina Hospitals,78.9,"Chapel Hill, NC",2020
+USA,47,UC San Diego Health - Jacobs Medical Center,78.8,"San Diego, CA",2020
+USA,48,Torrance Memorial Medical Center,78.3,"Torrance, CA",2020
+USA,49,University of Utah Hospital,78.2,"Salt Lake City, UT",2020
+USA,50,Baylor University Medical Center,78.1,"Dallas, TX",2020
+USA,51,Virginia Mason Medical Center,78,"Seattle, WA",2020
+USA,52,Tufts Medical Center,78,"Boston, MA",2020
+USA,53,UAB Hospital,77.9,"Birmingham, AL",2020
+USA,54,Nebraska Medicine - Nebraska Medical Center,77.4,"Omaha, NE",2020
+USA,55,Hackensack University Medical Center,77.3,"Hackensack, NJ",2020
+USA,56,Baylor St. Luke's Medical Center,77.2,"Houston, TX",2020
+USA,57,Dartmouth-Hitchcock Medical Center,77.1,"Lebanon, NH",2020
+USA,58,St. Joseph Mercy Chelsea,77.1,"Chelsea, MI",2020
+USA,59,Aurora St. Luke's Medical Center,77,"Milwaukee, WI",2020
+USA,60,Penn Medicine Chester County Hospital,77,"West Chester, PA",2020
+USA,61,University of Minnesota Medical Center,76.9,"Minneapolis, MN",2020
+USA,62,University of Virginia Medical Center,76.8,"Charlottesville, VA",2020
+USA,63,Swedish Medical Center,76.8,"Seattle, WA",2020
+USA,64,Penn State Health - Milton S. Hershey Medical Center,76.7,"Hershey, PA",2020
+USA,65,Froedtert Hospital and the Medical College of Wisconsin,76.5,"Milwaukee, WI",2020
+USA,66,Cleveland Clinic - Florida,76.4,"Weston, FL",2020
+USA,67,Inova Fairfax Hospital,76.4,"Falls Church, VA",2020
+USA,68,Indiana University Health West Hospital,76.3,"Avon, IN",2020
+USA,69,Sharp Memorial Hospital,76.2,"San Diego, CA",2020
+USA,70,Hoag Memorial Hospital Presbyterian,76.1,"Newport Beach, CA",2020
+USA,71,Newton-Wellesley Hospital,75.9,"Newton, MA",2020
+USA,72,Loyola University Medical Center,75.8,"Maywood, IL",2020
+USA,73,Miami Valley Hospital,75.7,"Dayton, OH",2020
+USA,74,St. Luke's Regional Medical Center,75.6,"Boise, ID",2020
+USA,75,Christ Hospital,75.6,"Cincinnati, OH",2020
+USA,76,Northwestern Medicine Central DuPage Hospital,75.5,"Winfield, IL",2020
+USA,77,University of Iowa Hospitals and Clinics,75.4,"Iowa City, IA",2020
+USA,78,Memorial Hermann-Texas Medical Center,75.3,"Houston, TX",2020
+USA,79,Johns Hopkins Bayview Medical Center,75.3,"Baltimore, MD",2020
+USA,80,Intermountain Medical Center,75.2,"Murray, UT",2020
+USA,81,Beaumont Hospital,75.2,"Royal Oak, MI",2020
+USA,82,MUSC Health-University Medical Center,75.1,"Charleston, SC",2020
+USA,83,University of Maryland Medical Center,75,"Baltimore, MD",2020
+USA,84,Indiana University Health Medical Center,74.9,"Indianapolis, IN",2020
+USA,85,Inova Alexandria Hospital,74.9,"Alexandria, VA",2020
+USA,86,Advocate Lutheran General Hospital,74.8,"Park Ridge, IL",2020
+USA,87,Indiana University Health - North Hospital,74.8,"Carmel, IN",2020
+USA,88,Maine Medical Center,74.5,"Portland, ME",2020
+USA,89,Umass Memorial Medical Center,74.5,"Worcester, MA",2020
+USA,90,El Camino Hospital,74.4,"Mountain View, CA",2020
+USA,91,Reading Hospital,74.4,"Reading, PA",2020
+USA,92,ChristianaCare,74.3,"Newark, DE",2020
+USA,93,Emory Saint Joseph's Hospital,74.3,"Atlanta, GA",2020
+USA,94,MemorialCare Long Beach Medical Center,74.3,"Long Beach, CA",2020
+USA,95,Medical City Dallas Hospital,74.3,"Dallas, TX",2020
+USA,96,Huntington Memorial Hospital,74.2,"Pasadena, CA",2020
+USA,97,Baystate Medical Center,74.1,"Springfield, MA",2020
+USA,98,University of Cincinnati Medical Center,74.1,"Cincinnati, OH",2020
+USA,99,UNC REX Hospital,74.1,"Raleigh, NC",2020
+USA,100,St. Luke's Hospital of Kansas City,74.1,"Kansas City, MO",2020
+USA,101,Sanford USD Medical Center,74,"Sioux Falls, SD",2020
+USA,102,Holland Hospital,74,"Holland, MI",2020
+USA,103,Mission Hospital,73.9,"Mission Viejo, CA",2020
+USA,104,Memorial Hermann - Memorial City Medical Center,73.9,"Houston, TX",2020
+USA,105,UnityPoint Health - Meriter,73.9,"Madison, WI",2020
+USA,106,VCU Medical Center,73.9,"Richmond, VA",2020
+USA,107,Queen's Medical Center,73.7,"Honolulu, HI",2020
+USA,108,Cleveland Clinic Akron General,73.7,"Akron, OH",2020
+USA,109,Kaiser Permanente Woodland Hills Medical Center,73.6,"Woodland Hills, CA",2020
+USA,110,St Luke's Hospital Bethlehem,73.5,"Bethlehem, PA",2020
+USA,111,The Moses H. Cone Memorial Hospital,73.4,"Greensboro, NC",2020
+USA,112,UC Irvine Medical Center,73.2,"Orange, CA",2020
+USA,113,John Muir Health - Walnut Creek Medical Center,73.2,"Walnut Creek, CA",2020
+USA,114,St. Francis Hospital & Medical Center,73.2,"Hartford, CT",2020
+USA,115,Providence Portland Medical Center,73,"Portland, OR",2020
+USA,116,University of Kentucky - Albert B. Chandler Hospital,73,"Lexington, KY",2020
+USA,117,Lankenau Medical Center,73,"Wynnewood, PA",2020
+USA,118,Kaiser Permanente Santa Clara Medical Center,72.9,"Santa Clara, CA",2020
+USA,119,Beaumont Hospital,72.8,"Troy, MI",2020
+USA,120,Providence St Vincent Medical Center,72.8,"Portland, OR",2020
+USA,121,Carolina East Medical Center,72.7,"New Bern, NC",2020
+USA,122,Bon Secours St. Francis Hospital,72.7,"Charleston, SC",2020
+USA,123,Parker Adventist Hospital,72.7,"Parker, CO",2020
+USA,124,Carolinas Medical Center,72.6,"Charlotte, NC",2020
+USA,125,Mayo Clinic - Health System In Eau Claire,72.5,"Eau Claire, WI",2020
+USA,126,Palomar Medical Center,72.4,"Escondido, CA",2020
+USA,127,Henry Ford Hospital,72.4,"Detroit, MI",2020
+USA,128,Lahey Hospital and Medical Center,72.4,"Burlington, MA",2020
+USA,129,Roper Hospital,72.4,"Charleston, SC",2020
+USA,130,Mission Hospital,72.3,"Asheville, NC",2020
+USA,131,Sparrow Hospital,71.9,"Lansing, MI",2020
+USA,132,UnityPoint Health - St. Luke's Hospital,71.9,"Cedar Rapids, IA",2020
+USA,133,Regions Hospital,71.9,"Saint Paul, MN",2020
+USA,134,Boone Hospital Center,71.9,"Columbia, MO",2020
+USA,135,Santa Barbara Cottage Hospital,71.8,"Santa Barbara, CA",2020
+USA,136,Sentara Williamsburg Regional Medical Center,71.8,"Williamsburg, VA",2020
+USA,137,Porter Adventist Hospital,71.7,"Denver, CO",2020
+USA,137,Fairview Southdale Hospital,71.6,"Edina, MN",2020
+USA,139,Aurora Baycare Medical Center,71.6,"Green Bay, WI",2020
+USA,140,Baylor Scott & White Medical Center,71.6,"Temple, TX",2020
+USA,141,Tampa General Hospital,71.5,"Tampa, FL",2020
+USA,142,Duke Regional Hospital,71.5,"Durham, NC",2020
+USA,143,St. Joseph's Hospital - BayCare,71.5,"Tampa, FL",2020
+USA,144,Anne Arundel Medical Center,71.5,"Annapolis, MD",2020
+USA,145,Saint Francis Hospital,71.4,"Tulsa, OK",2020
+USA,146,ProMedica Toledo Hospital,71.4,"Toledo, OH",2020
+USA,147,North Shore University Hospital,71.4,"Manhasset, NY",2020
+USA,148,Harborview Medical Center,71.3,"Seattle, WA",2020
+USA,149,Legacy Salmon Creek Medical Center,71.3,"Vancouver, WA",2020
+USA,150,Silver Cross Hospital,71.2,"New Lenox, IL",2020
+USA,151,MedStar Georgetown University Hospital,71.2,"Washington, DC",2020
+USA,152,Beaumont Hospital,71.1,"Grosse Pointe, MI",2020
+USA,153,EvergreenHealth Medical Center,71.1,"Kirkland, WA",2020
+USA,154,St. Francis Downtown,71,"Greenville, SC",2020
+USA,155,Valley Hospital,71,"Ridgewood, NJ",2020
+USA,156,Utah Valley Hospital,71,"Provo, UT",2020
+USA,157,Scripps Green Hospital,70.9,"La Jolla, CA",2020
+USA,158,Evanston Hospital,70.9,"Evanston, IL",2020
+USA,159,Sharp Chula Vista Medical Center,70.8,"Chula Vista, CA",2020
+USA,160,Advocate Christ Medical Center,70.7,"Oak Lawn, IL",2020
+USA,161,Brigham And Women's Faulkner Hospital,70.7,"Boston, MA",2020
+USA,162,Abbott Northwestern Hospital,70.5,"Minneapolis, MN",2020
+USA,163,Strong Memorial Hospital - University of Rochester,70.5,"Rochester, NY",2020
+USA,164,Mills-Peninsula Medical Center,70.5,"Burlingame, CA",2020
+USA,165,Sky Ridge Medical Center,70.4,"Lone Tree, CO",2020
+USA,166,AMITA Health Adventist Medical Center,70.4,"Hinsdale, IL",2020
+USA,167,Lancaster General Hospital,70.4,"Lancaster, PA",2020
+USA,168,Sentara Norfolk General Hospital,70.4,"Norfolk, VA",2020
+USA,169,United Regional Health Care System,70.2,"Wichita Falls, TX",2020
+USA,170,Overlook Medical Center,70.1,"Summit, NJ",2020
+USA,171,Northwestern Medicine - Delnor Hospital,70.1,"Geneva, IL",2020
+USA,172,Providence Little Company of Mary Medical Center,69.9,"Torrance, CA",2020
+USA,173,Doylestown Hospital,69.9,"Doylestown, PA",2020
+USA,174,St. David's Medical Center,69.9,"Austin, TX",2020
+USA,175,Avera McKennan Hospital and University Health Center,69.9,"Sioux Falls, SD",2020
+USA,176,St Vincent Healthcare,69.8,"Billings, MT",2020
+USA,177,St Patrick Hospital,69.8,"Missoula, MT",2020
+USA,178,Saratoga Hospital,69.8,"Saratoga Springs, NY",2020
+USA,179,Baylor Scott & White Medical Center,69.8,"Plano, TX",2020
+USA,180,Sarasota Memorial Hospital,69.7,"Sarasota, FL",2020
+USA,181,John Muir Medical Center - Concord Campus,69.5,"Concord, CA",2020
+USA,182,SSM Health - St. Mary's Hospital,69.5,"Jefferson City, MO",2020
+USA,183,Community Hospital East,69.5,"Indianapolis, IN",2020
+USA,184,St Lukes Hospital,69.5,"Chesterfield, MO",2020
+USA,185,WVU Medicine,69.5,"Morgantown, WV",2020
+USA,186,Cleveland Clinic - Hillcrest Hospital,69.4,"Mayfield Heights, OH",2020
+USA,187,Northern Light Mercy Hospital,69.3,"Portland, ME",2020
+USA,188,Billings Clinic Hospital,69.2,"Billings, MT",2020
+USA,189,UCHealth Poudre Valley Hospital,69.2,"Fort Collins, CO",2020
+USA,190,LDS Hospital,69.2,"Salt Lake City, UT",2020
+USA,191,Advocate Illinois Masonic Medical Center,69.1,"Chicago, IL",2020
+USA,192,St Jude Medical Center,69.1,"Fullerton, CA",2020
+USA,193,Edward Hospital,69,"Naperville, IL",2020
+USA,194,Baptist Health Lexington,69,"Lexington, KY",2020
+USA,195,University of Missouri Health Care,69,"Columbia, MO",2020
+USA,196,Wentworth-Douglass Hospital,69,"Dover, NH",2020
+USA,197,Emory Johns Creek Hospital,68.9,"Johns Creek, GA",2020
+USA,198,Blanchard Valley Hospital,68.9,"Findlay, OH",2020
+USA,199,Adventhealth Orlando,68.8,"Orlando, FL",2020
+USA,200,Jewish Hospital - Mercy Health,68.8,"Cincinnati, OH",2020
+USA,201,Kaiser Permanente San Diego Medical Center & Zion Medical Center,68.7,"San Diego, CA",2020
+USA,202,Willis Knighton Medical Center,68.7,"Shreveport, LA",2020
+USA,203,Morton Plant Hospital,68.6,"Clearwater, FL",2020
+USA,204,Tulane Medical Center,68.6,"New Orleans, LA",2020
+USA,205,Southcoast Hospitals Group,68.5,"Fall River, MA",2020
+USA,206,Fulton County Health Center,68.4,"Wauseon, OH",2020
+USA,207,Fairview Ridges Hospital,68.4,"Burnsville, MN",2020
+USA,208,Hopedale Medical Complex,68.3,"Hopedale, IL",2020
+USA,209,Baptist Hospital of Miami,68.3,"Miami, FL",2020
+USA,210,Main Line Hospital,68.3,"Paoli, PA",2020
+USA,211,Saint Joseph Medical Center,68.3,"Towson, MD",2020
+USA,212,Methodist Willowbrook Hospital,68.2,"Houston, TX",2020
+USA,213,Salem Hospital,68.2,"Salem, OR",2020
+USA,214,Geisinger Medical Center,68.2,"Danville, PA",2020
+USA,215,Holy Cross Hospital,68.2,"Fort Lauderdale, FL",2020
+USA,216,Henrico Doctors' Hospital,68.1,"Richmond, VA",2020
+USA,217,Good Samaritan Medical Center,68.1,"Lafayette, CO",2020
+USA,218,Kaiser Permanente Los Angeles Medical Center,68.1,"Los Angeles, CA",2020
+USA,219,Sherman Hospital,67.9,"Elgin, IL",2020
+USA,220,Mercy St. Anne Hospital,67.9,"Toledo, OH",2020
+USA,221,Straub Clinic And Hospital,67.9,"Honolulu, HI",2020
+USA,222,Griffin Hospital,67.9,"Derby, CT",2020
+USA,223,Mayo Clinic Healthcare System - Franciscan Medical Center,67.8,"La Crosse, WI",2020
+USA,224,Kaiser Permanente Moanalua (Hawaii) Medical Center,67.8,"Honolulu, HI",2020
+USA,225,Henry Ford West Bloomfield Hospital,67.7,"West Bloomfield, MI",2020
+USA,226,Cape Cod Hospital,67.6,"Hyannis, MA",2020
+USA,227,Banner University Medical Center Tucson,67.5,"Tucson, AZ",2020
+USA,228,The Medical Center of Aurora,67.4,"Aurora, CO",2020
+USA,229,Park Nicollet Methodist Hospital,67.3,"Saint Louis Park, MN",2020
+USA,230,St. Joseph Medical Center,67.3,"Bloomington, IL",2020
+USA,231,Methodist Hospital of Southern California,67.3,"Arcadia, CA",2020
+USA,232,Aultman Hospital,67.3,"Canton, OH",2020
+USA,233,Fayette Medical Center,67.2,"Fayette, AL",2020
+USA,234,SSM Health St. Mary's Hospital - Madison,67.2,"Madison, WI",2020
+USA,235,Memorial Hospital of South Bend,67.2,"South Bend, IN",2020
+USA,236,Mercy Gilbert Medical Center,67.1,"Gilbert, AZ",2020
+USA,237,Piedmont Athens Regional Medical Center,67.1,"Athens, GA",2020
+USA,238,St. Louis University Hospital,67.1,"Saint Louis, MO",2020
+USA,239,Norman Regional Hospital,67.1,"Norman, OK",2020
+USA,240,Virginia Hospital Center,67.1,"Arlington, VA",2020
+USA,241,Vassar Brothers Medical Center,67,"Poughkeepsie, NY",2020
+USA,242,Bethesda North Hospital,67,"Cincinnati, OH",2020
+USA,243,Baptist Medical Center - Beaches,67,"Jacksonville Beach, FL",2020
+USA,244,Texas Health Southwest - Harris Methodist Hospital,67,"Fort Worth, TX",2020
+USA,245,Mayo Clinic Health System - Albert Lea And Austin,67,"Albert Lea, MN",2020
+USA,246,California Pacific Medical Center,66.9,"San Francisco, CA",2020
+USA,247,Mclaren Northern Michigan,66.9,"Petoskey, MI",2020
+USA,248,Newark Beth Israel Medical Center,66.8,"Newark, NJ",2020
+USA,249,Northeast Georgia Medical Center,66.7,"Gainesville, GA",2020
+USA,250,Alexian Brothers Medical Center,66.7,"Elk Grove Village, IL",2020
+USA,251,Southwest Health Center - Platteville,66.7,"Platteville, WI",2020
+USA,252,Firsthealth Moore Regional Hospital,66.6,"Pinehurst, NC",2020
+USA,253,Medical Center Navicent Health,66.5,"Macon, GA",2020
+USA,254,Community Memorial Hospital,66.5,"Menomonee Falls, WI",2020
+USA,255,Main Line Hospital - Bryn Mawr Campus,66.4,"Bryn Mawr, PA",2020
+USA,256,MedStar Good Samaritan Hospital,66.4,"Baltimore, MD",2020
+USA,257,MedStar Union Memorial Hospital,66.3,"Baltimore, MD",2020
+USA,258,St. Vincent Indianapolis Hospital,66.3,"Indianapolis, IN",2020
+USA,259,Inova Fair Oaks Hospital,66.2,"Fairfax, VA",2020
+USA,260,Catholic Medical Center,66.2,"Manchester, NH",2020
+USA,261,St. Johns Medical Center,66.1,"Jackson, WY",2020
+USA,262,Bellevue Hospital Center,66.1,"New York, NY",2020
+USA,263,Sentara Princess Anne Hospital,66,"Virginia Beach, VA",2020
+USA,264,Logan Regional Hospital,66,"Logan, UT",2020
+USA,265,Johnston Health,65.9,"Smithfield, NC",2020
+USA,266,Wooster Community Hospital,65.9,"Wooster, OH",2020
+USA,267,Bellin Memorial Hospital,65.9,"Green Bay, WI",2020
+USA,268,UH Parma Medical Center,65.7,"Parma, OH",2020
+USA,269,Temple University Hospital,65.7,"Philadelphia, PA",2020
+USA,270,Rochester General Hospital,65.6,"Rochester, NY",2020
+USA,271,Southwestern Medical Center,65.5,"Lawton, OK",2020
+USA,272,Integris Southwest Medical Center,65.5,"Oklahoma City, OK",2020
+USA,273,Northridge Hospital Medical Center,65.5,"Northridge, CA",2020
+USA,274,Seton Medical Center Hays,65.3,"Kyle, TX",2020
+USA,275,Asante Rogue Regional Medical Center,65.3,"Medford, OR",2020
+USA,276,Gwinnett Medical Center,65.3,"Lawrenceville, GA",2020
+USA,277,Ascension Providence Hospital,65.3,"Southfield, MI",2020
+USA,278,Baptist Health Medical Center – North Little Rock,65.2,"North Little Rock, AR",2020
+USA,279,Northwestern Lake Forest Hospital,65.1,"Lake Forest, IL",2020
+USA,280,Presence Saints Mary And Elizabeth Medical Center,65.1,"Chicago, IL",2020
+USA,281,Via Christi Hospital on St. Francis,65,"Wichita, KS",2020
+USA,1,Mayo Clinic - Rochester,98.8,"Rochester, MN",2019
+USA,2,Cleveland Clinic,97.4,"Cleveland, OH",2019
+USA,3,The Johns Hopkins Hospital,96.7,"Baltimore, MD",2019
+USA,4,Massachusetts General Hospital,96.5,"Boston, MA",2019
+USA,5,UCSF Medical Center,92,"San Francisco, CA",2019
+USA,6,New York-Presbyterian Hospital-Columbia and Cornell,91.8,"New York, NY",2019
+USA,7,Brigham And Women's Hospital,91.7,"Boston, MA",2019
+USA,8,Ronald Reagan UCLA Medical Center,91.3,"Los Angeles, CA",2019
+USA,9,Mayo Clinic - Phoenix,91.2,"Phoenix, AZ",2019
+USA,10,University of Michigan Hospitals - Michigan Medicine,91.1,"Ann Arbor, MI",2019
+USA,11,Cedars-Sinai Medical Center,90.8,"Los Angeles, CA",2019
+USA,12,Hospitals of the University of Pennsylvania - Penn Presbyterian,90.5,"Philadelphia, PA",2019
+USA,13,Stanford Health Care-Stanford Hospital,90.3,"Stanford, CA",2019
+USA,14,University of Wisconsin Hospitals,89.9,"Madison, WI",2019
+USA,15,Northwestern Memorial Hospital,89.3,"Chicago, IL",2019
+USA,16,The Mount Sinai Hospital,89,"New York, NY",2019
+USA,17,UCLA Medical Center - Santa Monica,88.9,"Santa Monica, CA",2019
+USA,18,NYU Langone Hospitals,88.8,"New York, NY",2019
+USA,19,Cleveland Clinic Fairview Hospital,88.4,"Cleveland, OH",2019
+USA,20,Duke University Hospital,88.4,"Durham, NC",2019
+USA,21,Barnes-Jewish Hospital,88.1,"Saint Louis, MO",2019
+USA,22,UPMC Presbyterian & Shadyside,87.8,"Pittsburgh, PA",2019
+USA,23,Jefferson Health-Thomas Jefferson University Hospitals,87.4,"Philadelphia, PA",2019
+USA,24,University Hospitals Cleveland Medical Center,87.4,"Cleveland, OH",2019
+USA,25,Emory University Hospital,87.3,"Atlanta, GA",2019
+USA,26,Ohio State University Wexner Medical Center,87.1,"Columbus, OH",2019
+USA,27,Vanderbilt University Medical Center,87.1,"Nashville, TN",2019
+USA,28,Morristown Medical Center,87,"Morristown, NJ",2019
+USA,29,Rush University Medical Center,86.7,"Chicago, IL",2019
+USA,30,University of Colorado Hospital,86.4,"Aurora, CO",2019
+USA,31,Scripps La Jolla Hospitals,86.3,"La Jolla, CA",2019
+USA,32,Tufts Medical Center,86.2,"Boston, MA",2019
+USA,33,University of Kansas Hospital,86.1,"Kansas City, KS",2019
+USA,34,UT Southwestern Medical Center,86,"Dallas, TX",2019
+USA,35,"University of California, Davis Medical Center",86,"Sacramento, CA",2019
+USA,36,Beth Israel Deaconess Medical Center,86,"Boston, MA",2019
+USA,37,UAB Hospital,85.9,"Birmingham, AL",2019
+USA,38,Torrance Memorial Medical Center,85.5,"Torrance, CA",2019
+USA,39,Baylor University Medical Center,85.4,"Dallas, TX",2019
+USA,40,Keck Hospital of USC,85.3,"Los Angeles, CA",2019
+USA,41,University of Chicago Medical Center,85.3,"Chicago, IL",2019
+USA,42,Mayo Clinic - Jacksonville,85.3,"Jacksonville, FL",2019
+USA,43,OHSU Hospital,85.3,"Portland, OR",2019
+USA,44,Virginia Mason Medical Center,85.1,"Seattle, WA",2019
+USA,45,University of Iowa Hospitals and Clinics,84.2,"Iowa City, IA",2019
+USA,46,Yale New Haven Hospital,84.2,"New Haven, CT",2019
+USA,47,Beaumont Hospital - Royal Oak,84.1,"Royal Oak, MI",2019
+USA,48,Baylor St. Luke's Medical Center,84.1,"Houston, TX",2019
+USA,49,Loyola University Medical Center,83.7,"Maywood, IL",2019
+USA,50,University of North Carolina Hospitals,83.7,"Chapel Hill, NC",2019
+USA,51,University of Minnesota Medical Center,83.6,"Minneapolis, MN",2019
+USA,52,Swedish Medical Center,83.4,"Seattle, WA",2019
+USA,53,Hackensack University Medical Center,83.3,"Hackensack, NJ",2019
+USA,54,MUSC Health-University Medical Center,83.3,"Charleston, SC",2019
+USA,55,University of Washington Medical Center,83.2,"Seattle, WA",2019
+USA,56,Nebraska Medicine - Nebraska Medical Center,83.1,"Omaha, NE",2019
+USA,57,Baystate Medical Center,83,"Springfield, MA",2019
+USA,58,Mercy Hospital St. Louis,83,"Saint Louis, MO",2019
+USA,59,Indiana University Health Medical Center,82.5,"Indianapolis, IN",2019
+USA,60,UC San Diego Health-Jacobs Medical Center,82.4,"San Diego, CA",2019
+USA,61,MemorialCare Long Beach Medical Center,82.2,"Long Beach, CA",2019
+USA,62,University Of Virginia Med Center,82.1,"Charlottesville, VA",2019
+USA,63,Houston Methodist Hospital,82.1,"Houston, TX",2019
+USA,64,Aurora St. Luke's Medical Center,81.8,"Milwaukee, WI",2019
+USA,65,Sparrow Hospital,81.7,"Lansing, MI",2019
+USA,66,Cleveland Clinic Akron General,81.7,"Akron, OH",2019
+USA,67,Miami Valley Hospital,81.5,"Dayton, OH",2019
+USA,68,Advocate Good Samaritan Hospital,81.5,"Downers Grove, IL",2019
+USA,69,Johns Hopkins Bayview Medical Center,81.3,"Baltimore, MD",2019
+USA,70,Umass Memorial Medical Center,81.2,"Worcester, MA",2019
+USA,71,University of Cincinnati Medical Center,81,"Cincinnati, OH",2019
+USA,72,Newton-Wellesley Hospital,80.9,"Newton, MA",2019
+USA,73,Cleveland Clinic Florida,80.5,"Weston, FL",2019
+USA,74,Inova Fairfax Hospital,80.5,"Falls Church, VA",2019
+USA,75,St. Joseph Mercy Chelsea,80.5,"Chelsea, MI",2019
+USA,76,University Of Maryland Medical Center,80.2,"Baltimore, MD",2019
+USA,77,St. Cloud Hospital,80.2,"Saint Cloud, MN",2019
+USA,78,Advocate Lutheran General Hospital,79.7,"Park Ridge, IL",2019
+USA,79,SSM Health Saint Louis University Hospital,79.6,"Saint Louis, MO",2019
+USA,80,Inova Alexandria Hospital,79.6,"Alexandria, VA",2019
+USA,81,St. Luke's Hospital of Kansas City,79.5,"Kansas City, MO",2019
+USA,82,Henry Ford Hospital,79.4,"Detroit, MI",2019
+USA,83,Huntington Memorial Hospital,79.4,"Pasadena, CA",2019
+USA,84,Regions Hospital,79.3,"Saint Paul, MN",2019
+USA,85,Penn State Health Milton S. Hershey Medical Center,79,"Hershey, PA",2019
+USA,86,St. Luke's Regional Medical Center,78.4,"Boise, ID",2019
+USA,87,Queen's Medical Center,78.3,"Honolulu, HI",2019
+USA,88,Christiana Care Hospitals,78.2,"Newark, DE",2019
+USA,89,Sharp Memorial Hospital,78,"San Diego, CA",2019
+USA,90,Dartmouth-Hitchcock Medical Center,77.9,"Lebanon, NH",2019
+USA,91,University of Utah Hospital,77.9,"Salt Lake City, UT",2019
+USA,92,Mission Hospital - Mission Viejo,77.9,"Mission Viejo, CA",2019
+USA,93,Hoag Memorial Hospital Presbyterian,77.8,"Newport Beach, CA",2019
+USA,94,Christ Hospital,77.7,"Cincinnati, OH",2019
+USA,95,Intermountain Medical Center,77.7,"Murray, UT",2019
+USA,96,Penn Medicine Chester County Hospital,77.6,"West Chester, PA",2019
+USA,97,Advocate Christ Medical Center,77.6,"Oak Lawn, IL",2019
+USA,98,Overlook Medical Center,77.4,"Summit, NJ",2019
+USA,99,University of Kentucky Albert B. Chandler Hospital,77.3,"Lexington, KY",2019
+USA,100,Indiana University Health West Hospital,77.2,"Avon, IN",2019
+USA,101,Beaumont Hospital - Troy,77.2,"Troy, MI",2019
+USA,102,Froedtert Hospital and the Medical College of Wisconsin,77,"Milwaukee, WI",2019
+USA,103,Carolinas Medical Center,77,"Charlotte, NC",2019
+USA,104,Valley Hospital,76.9,"Ridgewood, NJ",2019
+USA,105,Northwestern Medicine Central DuPage Hospital,76.8,"Winfield, IL",2019
+USA,106,Medical City Dallas,76.7,"Dallas, TX",2019
+USA,107,Providence Portland Medical Center,76.6,"Portland, OR",2019
+USA,108,Harborview Medical Center,76.6,"Seattle, WA",2019
+USA,109,Memorial Hermann-Texas Medical Center,76.6,"Houston, TX",2019
+USA,110,Medical Center Navicent Health,76.5,"Macon, GA",2019
+USA,111,John Muir Health-Walnut Creek Medical Center,76.5,"Walnut Creek, CA",2019
+USA,112,Providence St Vincent Medical Center,76.4,"Portland, OR",2019
+USA,113,Holy Cross Hospital,76.4,"Fort Lauderdale, FL",2019
+USA,114,The Moses H. Cone Memorial Hospital,76.4,"Greensboro, NC",2019
+USA,115,Porter Adventist Hospital,76.4,"Denver, CO",2019
+USA,116,Indiana University Health North Hospital,76.3,"Carmel, IN",2019
+USA,117,Maine Medical Center,76.3,"Portland, ME",2019
+USA,118,Tampa General Hospital,76.1,"Tampa, FL",2019
+USA,119,Memorial Hermann Memorial City Medical Center,75.9,"Houston, TX",2019
+USA,120,ProMedica Toledo Hospital,75.9,"Toledo, OH",2019
+USA,121,Parker Adventist Hospital,75.9,"Parker, CO",2019
+USA,122,Boone Hospital Center,75.8,"Columbia, MO",2019
+USA,123,Kaiser Permanente Woodland Hills Medical Center,75.8,"Woodland Hills, CA",2019
+USA,124,The Medical Center of Aurora,75.8,"Aurora, CO",2019
+USA,125,St Luke's Hospital Bethlehem,75.7,"Bethlehem, PA",2019
+USA,126,Sanford USD Medical Center,75.6,"Sioux Falls, SD",2019
+USA,127,VCU Medical Center,75.6,"Richmond, VA",2019
+USA,128,Mercy Gilbert Medical Center,75.6,"Gilbert, AZ",2019
+USA,129,El Camino Hospital,75.3,"Mountain View, CA",2019
+USA,130,Bon Secours St. Francis Hospital,75.3,"Charleston, SC",2019
+USA,131,Baylor Scott & White Medical Center – Temple,75.3,"Temple, TX",2019
+USA,132,Emory Saint Joseph's Hospital,75.1,"Atlanta, GA",2019
+USA,133,Emory Johns Creek Hospital,75.1,"Johns Creek, GA",2019
+USA,134,Advocate Illinois Masonic Medical Center,75.1,"Chicago, IL",2019
+USA,135,Catholic Medical Center,75,"Manchester, NH",2019
+USA,136,Bellevue Hospital Center,75,"New York, NY",2019
+USA,137,MedStar Georgetown University Hospital,74.9,"Washington, DC",2019
+USA,137,Sharp Chula Vista Medical Center,74.9,"Chula Vista, CA",2019
+USA,139,Sentara Norfolk General Hospital,74.9,"Norfolk, VA",2019
+USA,140,North Shore University Hospital,74.8,"Manhasset, NY",2019
+USA,141,MedStar Good Samaritan Hospital,74.8,"Baltimore, MD",2019
+USA,142,St Vincent Healthcare,74.7,"Billings, MT",2019
+USA,143,Lahey Hospital and Medical Center,74.7,"Burlington, MA",2019
+USA,144,Aultman Hospital,74.7,"Canton, OH",2019
+USA,145,UC Irvine Medical Center,74.7,"Orange, CA",2019
+USA,146,Mission Hospital,74.6,"Asheville, NC",2019
+USA,147,Newark Beth Israel Medical Center,74.5,"Newark, NJ",2019
+USA,148,UNC REX Hospital,74.5,"Raleigh, NC",2019
+USA,149,Sentara Williamsburg Regional Medical Center,74.5,"Williamsburg, VA",2019
+USA,150,Doylestown Hospital,74.4,"Doylestown, PA",2019
+USA,151,Banner University Medical Center Tucson,74.4,"Tucson, AZ",2019
+USA,152,Creighton University Medical Center-Bergan Mercy,74.4,"Omaha, NE",2019
+USA,153,Strong Memorial Hospital of the University of Rochester,74.3,"Rochester, NY",2019
+USA,154,Piedmont Athens Regional Medical Center,74.2,"Athens, GA",2019
+USA,155,UnityPoint Health - Meriter,74.2,"Madison, WI",2019
+USA,156,Saratoga Hospital,74.2,"Saratoga Springs, NY",2019
+USA,157,University Of Missouri Health Care,74.2,"Columbia, MO",2019
+USA,158,Anne Arundel Medical Center,74.1,"Annapolis, MD",2019
+USA,159,WVU Medicine West Virginia University Hospitals,74.1,"Morgantown, WV",2019
+USA,160,EvergreenHealth Medical Center - Kirkland,74.1,"Kirkland, WA",2019
+USA,161,Reading Hospital,74.1,"Reading, PA",2019
+USA,162,Southcoast Hospitals Group,74,"Fall River, MA",2019
+USA,163,UnityPoint Health - St. Luke's Hospital,74,"Cedar Rapids, IA",2019
+USA,164,Mills-Peninsula Medical Center,73.8,"Burlingame, CA",2019
+USA,165,Fairview Southdale Hospital,73.8,"Edina, MN",2019
+USA,166,Baptist Hospital Of Miami,73.7,"Miami, FL",2019
+USA,167,Community Hospital East,73.7,"Indianapolis, IN",2019
+USA,168,Beaumont Hospital - Grosse Pointe,73.7,"Grosse Pointe, MI",2019
+USA,169,United Regional Health Care System - Wichita Falls,73.6,"Wichita Falls, TX",2019
+USA,170,Roper Hospital,73.4,"Charleston, SC",2019
+USA,171,Sky Ridge Medical Center,73.4,"Lone Tree, CO",2019
+USA,172,Northeast Georgia Medical Center,73.3,"Gainesville, GA",2019
+USA,173,Elliot Hospital,73.3,"Manchester, NH",2019
+USA,174,Avera McKennan Hospital and University Health Center,73.2,"Sioux Falls, SD",2019
+USA,175,Silver Cross Hospital,73.2,"New Lenox, IL",2019
+USA,176,Integris Southwest Medical Center,73.2,"Oklahoma City, OK",2019
+USA,177,Geisinger Medical Center,73.2,"Danville, PA",2019
+USA,178,Tulane Medical Center,73.1,"New Orleans, LA",2019
+USA,179,Billings Clinic Hospital,73.1,"Billings, MT",2019
+USA,180,Northridge Hospital Medical Center,73,"Northridge, CA",2019
+USA,181,Palomar Medical Center,73,"Escondido, CA",2019
+USA,182,Ascension Via Christi St. Francis,72.9,"Wichita, KS",2019
+USA,183,Advocate South Suburban Hospital,72.9,"Hazelcrest, IL",2019
+USA,184,Norman Regional Hospital,72.8,"Norman, OK",2019
+USA,185,Providence Little Company of Mary Medical Center Torrance,72.8,"Torrance, CA",2019
+USA,186,Lancaster General Hospital,72.8,"Lancaster, PA",2019
+USA,187,St. Francis Downtown,72.7,"Greenville, SC",2019
+USA,188,St. Vincent Indianapolis Hospital,72.7,"Indianapolis, IN",2019
+USA,189,St Francis Hospital & Medical Center,72.6,"Hartford, CT",2019
+USA,190,Kaiser Permanente Santa Clara Medical Center,72.5,"Santa Clara, CA",2019
+USA,191,AMITA Health Adventist Medical Center Hinsdale,72.5,"Hinsdale, IL",2019
+USA,192,Vassar Brothers Medical Center,72.5,"Poughkeepsie, NY",2019
+USA,193,Santa Barbara Cottage Hospital,72.5,"Santa Barbara, CA",2019
+USA,194,Sarasota Memorial Hospital,72.4,"Sarasota, FL",2019
+USA,195,Utah Valley Hospital,72.3,"Provo, UT",2019
+USA,196,Holland Hospital,72.3,"Holland, MI",2019
+USA,197,Carolina East Medical Center,72.3,"New Bern, NC",2019
+USA,198,MedStar Union Memorial Hospital,72.2,"Baltimore, MD",2019
+USA,199,Methodist Hospital of Southern California,72.2,"Arcadia, CA",2019
+USA,200,Willis Knighton Medical Center,72.1,"Shreveport, LA",2019
+USA,201,Temple University Hospital,72,"Philadelphia, PA",2019
+USA,202,California Pacific Medical Center,71.9,"San Francisco, CA",2019
+USA,203,UCHealth Poudre Valley Hospital,71.8,"Fort Collins, CO",2019
+USA,204,Griffin Hospital,71.7,"Derby, CT",2019
+USA,205,Evanston Hospital,71.7,"Evanston, IL",2019
+USA,206,Bethesda North Hospital,71.6,"Cincinnati, OH",2019
+USA,207,University of Louisville Hospital,71.6,"Louisville, KY",2019
+USA,208,Jewish Hospital — Mercy Health,71.5,"Cincinnati, OH",2019
+USA,209,Legacy Salmon Creek Medical Center,71.5,"Vancouver, WA",2019
+USA,210,Baptist Health Medical Center-Little Rock,71.4,"North Little Rock, AR",2019
+USA,211,Rochester General Hospital,71.4,"Rochester, NY",2019
+USA,212,Gwinnett Medical Center,71.2,"Lawrenceville, GA",2019
+USA,213,UH Parma Medical Center,71.1,"Parma, OH",2019
+USA,214,Memorial Hospital of South Bend,71.1,"South Bend, IN",2019
+USA,215,Northern Light Mercy Hospital,71.1,"Portland, ME",2019
+USA,216,Southwestern Medical Center,71,"Lawton, OK",2019
+USA,217,Good Samaritan Medical Center,70.9,"Lafayette, CO",2019
+USA,218,Alexian Brothers Medical Center,70.9,"Elk Grove Village, IL",2019
+USA,219,Scripps Green Hospital,70.8,"La Jolla, CA",2019
+USA,220,Saint Joseph Medical Center,70.6,"Towson, MD",2019
+USA,221,Cleveland Clinic Hillcrest Hospital,70.5,"Mayfield Heights, OH",2019
+USA,222,Henrico Doctors' Hospital,70.5,"Richmond, VA",2019
+USA,223,Salem Hospital,70.4,"Salem, OR",2019
+USA,224,"Ascension Providence Hospital, Southfield Campus",70.4,"Southfield, MI",2019
+USA,225,Houston Methodist Willowbrook Hospital,70.2,"Houston, TX",2019
+USA,226,Concord Medical Center,70.2,"Concord, CA",2019
+Canada,1,Toronto General Hospital,91.1,"Toronto, ON",2019
+Canada,2,North York General Hospital,91,"Toronto, ON",2019
+Canada,3,Rockyview General Hospital,90.3,"Calgary, AB",2019
+Canada,4,Jewish General Hospital,89.3,"Montreal, QC",2019
+Canada,5,Sunnybrook Health Sciences Centre,88.3,"Toronto, ON",2019
+Canada,6,Montreal General Hospital (McGill University Health Centre),87.9,"Montreal, QC",2019
+Canada,7,Royal Jubilee Hospital (RJH),87.8,"Victoria, BC",2019
+Canada,8,The Royal Victoria Hospital (McGill University Health Centre),87.8,"Montreal, QC",2019
+Canada,9,Vancouver General Hospital (VGH),87.8,"Vancouver, BC",2019
+Canada,10,Foothills Medical Centre,87.5,"Calgary, AB",2019
+Canada,11,Centre hospitalier de l’Université de Montréal (CHUM),87.2,"Montreal, QC",2019
+Canada,12,Victoria General Hospital,87.1,"Victoria, BC",2019
+Canada,13,Toronto Western Hospital,86.5,"Toronto, ON",2019
+Canada,14,Peter Lougheed Centre,86.5,"Calgary, AB",2019
+Canada,15,Mount Sinai Hospital,86.5,"Toronto, ON",2019
+Canada,16,St. Paul's Hospital,86,"Vancouver, BC",2019
+Canada,17,Grace Hospital,86,"Winnipeg, MB",2019
+Canada,18,Lachine Hospital (McGill University Health Centre),85.9,"Lachine, QC",2019
+Canada,19,Humber River Hospital,85.7,"Toronto, ON",2019
+Canada,20,Queen Elizabeth II Health Sciences Centre,85.7,"Halifax, NS",2019
+Canada,21,Hôpital de l'Enfant-Jésus (CHU de Québec-Université Laval),85.2,"Quebec City, QC",2019
+Canada,22,St. Michael’s Hospital (Toronto),85.1,"Toronto, ON",2019
+Canada,23,Kelowna General Hospital,85.1,"Kelowna, BC",2019
+Canada,24,UBC Hospital (UBC),85,"Vancouver, BC",2019
+Canada,25,Queensway Carleton Hospital,84.8,"Ottawa, ON",2019
+Canada,26,"Misericordia Community Hospital, Covenant Health",84.7,"Edmonton, AB",2019
+Canada,27,"Victoria Hospital (London, Ontario)",84.5,"London, ON",2019
+Canada,28,"Grey Nuns Community Hospital, Covenant Health",84.2,"Edmonton, AB",2019
+Canada,29,The Ottawa Hospital,83.9,"Ottawa, ON",2019
+Canada,30,Kingston General Hospital,83.8,"Kingston, ON",2019
+Canada,31,St. Joseph’s Healthcare Hamilton,83.8,"Hamilton, ON",2019
+Canada,32,Health Sciences Centre Winnipeg,83.7,"Winnipeg, MB",2019
+Canada,33,Royal Columbian Hospital,83.7,"New Westminster, BC",2019
+Canada,34,Seven Oaks General Hospital,83.3,"Winnipeg, MB",2019
+Canada,35,Southlake Regional Health Centre,83.3,"Newmarket, ON",2019
+Canada,36,Royal Alexandra Hospital,82.9,"Edmonton, AB",2019
+Canada,37,St. Boniface Hospital,82.8,"Winnipeg, MB",2019
+Canada,38,University of Alberta Hospital,82.6,"Edmonton, AB",2019
+Canada,39,The Credit Valley Hospital (Trillium Health Partners),82.1,"Mississauga, ON",2019
+Canada,40,Mackenzie Richmond Hill Hospital,81.8,"Richmond Hill, ON",2019
+Canada,41,St. Mary’s Hospital Centre/Centre hospitalier de St. Mary,81.7,"Montreal, QC",2019
+Canada,42,Grand River Hospital,81.3,"Kitchener, ON",2019
+Canada,43,Oakville Trafalgar Memorial Hospital,81.2,"Oakville, ON",2019
+Canada,44,Centre hospitalier de l'Université Laval (CHU de Québec-Université Laval),81.1,"Quebec City, QC",2019
+Canada,45,Michael Garron Hospital,81.1,"Toronto, ON",2019
+Canada,46,St. Joseph’s Health Centre,80.7,"Toronto, ON",2019
+Canada,47,Regina General Hospital,80.6,"Regina, SK",2019
+Canada,48,McMaster University Medical Centre (Hamilton Health Sciences),80.5,"Hamilton, ON",2019
+Canada,49,Mississauga Hospital (Trillium Health Partners),80.3,"Mississauga, ON",2019
+Canada,50,Bluewater Health,80.1,"Sarnia, ON",2019
+Canada,51,"Victoria General Hospital, MB",80,"Winnipeg, MB",2019
+Canada,52,Etobicoke General Hospital (William Osler Health System),79.8,"Toronto, ON",2019
+Canada,53,Juravinski Hospital (Hamilton Health Sciences),79.6,"Hamilton, ON",2019
+Canada,54,Brampton Civic Hospital (William Osler Health System),79.5,"Brampton, ON",2019
+Canada,55,Hopital Maisonneuve-Rosemont,79.5,"Montreal, QC",2019
+Canada,56,Chaleur Regional Hospital,79.3,"Bathurst, NB",2019
+Canada,57,Saskatoon City Hospital,79.1,"Saskatoon, SK",2019
+Canada,58,"University Hospital (London, Ontario)",79.1,"London, ON",2019
+Canada,59,Dr. Georges-L.-Dumont University Hospital Centre,78.8,"Moncton, NB",2019
+Canada,60,Yorkton Regional Health Centre,78.5,"Yorkton, SK",2019
+Canada,61,Hôpital du Saint-Sacrement (CHU de Québec-Université Laval),78.5,"Quebec City, QC",2019
+Canada,62,Markham Stouffville Hospital – Markham Site,78.5,"Markham, ON",2019
+Canada,63,Milton District Hospital,78.3,"Milton, ON",2019
+Canada,64,Hôpital Montfort,78.2,"Ottawa, ON",2019
+Canada,65,Hamilton General Hospital (Hamilton Health Sciences),77.3,"Hamilton, ON",2019
+Canada,66,Joseph Brant Memorial Hospital,77.1,"Burlington, ON",2019
+Canada,67,Valley Regional Hospital,76.4,"Kentville, NS",2019
+Canada,68,Hôpital Notre-Dame (Centre hospitalier de l’Université de Montréal),76.4,"Montreal, QC",2019
+Canada,69,Lions Gate Hospital,76.1,"North Vancouver, BC",2019
+Canada,70,Richmond Hospital,75.8,"Richmond, BC",2019
+Canada,71,Royal University Hospital,75.6,"Saskatoon, SK",2019
+Canada,72,QHC Belleville General Hospital (Quinte Health Care),75.5,"Belleville, ON",2019
+Canada,73,Peace Arch Hospital,75.4,"White Rock, BC",2019
+Canada,74,Cape Breton Regional Hospital,75.4,"Sydney, NS",2019
+Canada,75,Guelph General Hospital,75.2,"Guelph, ON",2019
+Canada,76,St. Mary’s General Hospital,75.2,"Kitchener, ON",2019
+Canada,77,Scarborough Health Network,75.1,"Scarborough, ON",2019
+Canada,78,Hôpital du Sacré-Coeur de Montréal,74.9,"Montreal, QC",2019
+Canada,79,Queen Elizabeth Hospital,74.7,"Charlottetown, PE",2019
+Canada,80,Lakeridge Health Oshawa (Lakeridge Health),74.5,"Oshawa, ON",2019
+Canada,81,Surrey Memorial Hospital,74.1,"Surrey, BC",2019
+Canada,82,Thunder Bay Regional Health Sciences Centre,74.1,"Thunder Bay, ON",2019
+Canada,83,Miramichi Regional Hospital,74.1,"Miramichi, NB",2019
+Canada,84,The University Hospital of Northern British Columbia,74,"Prince George, BC",2019
+Canada,85,Medicine Hat Regional Hospital,73.4,"Medicine Hat, AB",2019
+Germany,1,Charité – Universitätsmedizin Berlin,94.2,Berlin,2019
+Germany,2,Universitätsklinikum Heidelberg,94.1,Heidelberg,2019
+Germany,3,Klinikum der Universität München,91.4,Munich,2019
+Germany,4,Universitätsklinikum Hamburg-Eppendorf (UKE),90.8,Hamburg,2019
+Germany,5,Medizinische Hochschule Hannover (MHH),90.7,Hanover,2019
+Germany,6,Klinikum rechts der Isar der TU München,89.6,Munich,2019
+Germany,7,Uniklinik Köln,89.1,Cologne,2019
+Germany,8,Universitätsklinikum Freiburg,88.9,Freiburg,2019
+Germany,9,"UKSH Universitätsklinikum Schleswig-Holstein, Campus Kiel",88.4,Kiel,2019
+Germany,10,Universitätsklinikum Regensburg,88.3,Regensburg,2019
+Germany,11,Universitätsklinikum Erlangen,88.2,Erlangen,2019
+Germany,12,Universitätsmedizin Göttingen,88.1,Göttingen,2019
+Germany,13,Universitätsklinikum Carl Gustav Carus Dresden,87.7,Dresden,2019
+Germany,14,Universitätsklinikum Düsseldorf,87.7,Düsseldorf,2019
+Germany,15,Uniklinik RWTH Aachen,87.3,Aachen,2019
+Germany,16,Universitätsklinikum Würzburg,87,Würzburg,2019
+Germany,17,Universitätsklinikum Bonn,86.9,Bonn,2019
+Germany,18,Universitätsmedizin Mainz,86.9,Mainz,2019
+Germany,19,Klinikum Nürnberg Nord,86.7,Nuremberg,2019
+Germany,20,Universitätsklinikum Essen,86.5,Essen,2019
+Germany,21,Universitätsklinikum Leipzig,86.1,Leipzig,2019
+Germany,22,Asklepios Klinik St. Georg,86.1,Hamburg,2019
+Germany,23,Universitätsklinikum Jena,85.9,Jena,2019
+Germany,24,Universitätsklinikum des Saarlandes,85.7,Homburg,2019
+Germany,25,Universitätsklinikum Tübingen,85.7,Tübingen,2019
+Germany,26,Universitätsklinikum Ulm,85.6,Ulm,2019
+Germany,27,BG Universitätsklinikum Bergmannsheil,85.4,Bochum,2019
+Germany,28,Asklepios Klinik Barmbek,85.4,Hamburg,2019
+Germany,29,Bundeswehrkrankenhaus Ulm,85.3,Ulm,2019
+Germany,30,Universitätsklinikum Halle (Saale),85,Halle (Saale),2019
+Germany,31,Universitätsmedizin Greifswald,84.8,Greifswald,2019
+Germany,32,Universitätsklinikum Münster,84.7,Münster,2019
+Germany,33,"UKSH Universitätsklinikum Schleswig-Holstein, Campus Lübeck",84.2,Lübeck,2019
+Germany,34,Schön Klinik Hamburg Eilbek,84.1,Hamburg,2019
+Germany,35,Klinikum Nürnberg Süd,84,Nuremberg,2019
+Germany,36,Universitätsklinikum Frankfurt,83.6,Frankfurt am Main,2019
+Germany,37,Robert-Bosch-Krankenhaus – Klinik Schillerhöhe,83.5,Stuttgart,2019
+Germany,38,Klinikum Braunschweig,83.3,Brunswick,2019
+Germany,39,Klinikum Köln-Merheim,83.2,Cologne,2019
+Germany,40,Universitätsklinikum Magdeburg,83.2,Magdeburg,2019
+Germany,41,Zentralklinik Bad Berka,83.1,Bad Berka,2019
+Germany,42,St. Franziskus-Hospital Münster,83,Münster,2019
+Germany,43,Universitätsmedizin Mannheim,82.8,Mannheim,2019
+Germany,44,Klinikum Dortmund,82.7,Dortmund,2019
+Germany,45,Albertinen-Krankenhaus,82.6,Hamburg,2019
+Germany,46,Städtisches Klinikum Karlsruhe,82.5,Karlsruhe,2019
+Germany,47,Krankenhaus Nordwest,82.5,Frankfurt am Main,2019
+Germany,48,München Klinik Bogenhausen,82.3,Munich,2019
+Germany,49,Marienhospital Stuttgart,82.2,Stuttgart,2019
+Germany,50,Klinikum Ludwigshafen,82.2,Ludwigshafen,2019
+Germany,51,Brüderhaus Koblenz,82,Coblenz,2019
+Germany,52,"Gemeinschaftskrankenhaus Bonn, Haus St. Petrus",82,Bonn,2019
+Germany,53,Städt. Klinikum Dresden-Friedrichstadt,82,Dresden,2019
+Germany,54,UKGM Gießen und Marburg,81.9,Marburg,2019
+Germany,55,Klinikum Stuttgart – Olgahospital / Frauenklinik,81.9,Stuttgart,2019
+Germany,56,Waldkliniken Eisenberg,81.8,Eisenberg,2019
+Germany,57,Alfried Krupp Krankenhaus Rüttenscheid,81.4,Essen,2019
+Germany,58,Israelitisches Krankenhaus Hamburg,81.2,Hamburg,2019
+Germany,59,Universitätsklinikum Knappschaftskrankenhaus Bochum,81.1,Bochum,2019
+Germany,60,Evangelisches Klinikum Bethel,81.1,Bielefeld,2019
+Germany,61,St. Josef-Hospital Klinikum der Ruhr-Universität Bochum,81.1,Bochum,2019
+Germany,62,Krankenhaus der Barmherzigen Brüder Trier,81,Trier,2019
+Germany,63,Universitätsklinikum Augsburg,81,Augsburg,2019
+Germany,64,Asklepios Klinik Altona,80.9,Hamburg,2019
+Germany,65,Bürgerhospital Frankfurt am Main,80.9,Frankfurt am Main,2019
+Germany,66,Klinikum Ludwigsburg,80.9,Ludwigsburg,2019
+Germany,67,Unfallkrankenhaus Berlin,80.7,Berlin,2019
+Germany,68,Helios Klinikum Erfurt,80.5,Erfurt,2019
+Germany,69,Evangelisches Krankenhaus Königin Elisabeth Herzberge,80.3,Berlin,2019
+Germany,70,Agaplesion Frankfurter Diakonie Kliniken,80.1,Frankfurt am Main,2019
+Germany,71,Barmherzige Brüder Klinik St. Elisabeth Straubing,80.1,Straubing,2019
+Germany,72,DRK Kliniken Berlin | Köpenick,80,Berlin,2019
+Germany,73,Gemeinschaftskrankenhaus Havelhöhe,79.9,Berlin,2019
+Germany,74,Kliniken Dr. Erler,79.9,Nuremberg,2019
+Germany,75,Krankenhaus der Augustinerinnen,79.8,Cologne,2019
+Germany,76,Krankenhaus Martha-Maria Halle-Dölau,79.6,Halle (Saale),2019
+Germany,77,Krankenhaus Barmherzige Brüder Regensburg,79.5,Regensburg,2019
+Germany,78,"Kliniken Maria Hilf, Krankenhaus St. Franziskus",79.4,Mönchengladbach,2019
+Germany,79,Kath. Marienkrankenhaus,79.1,Hamburg,2019
+Germany,80,St. Elisabeth-Krankenhaus Köln-Hohenlind,79.1,Cologne,2019
+Germany,81,Klinikum Esslingen,78.6,Esslingen am Neckar,2019
+Germany,82,Vivantes Humboldt-Klinikum Berlin,78.6,Berlin,2019
+Germany,83,Klinikum Dritter Orden München-Nymphenburg,78.5,Munich,2019
+Germany,84,Universitätsmedizin Rostock,78.2,Rostock,2019
+Germany,85,Schwarzwald-Baar Klinikum Villingen-Schwenningen,78.1,Villingen-Schwenningen,2019
+Germany,86,DIAKOVERE Friederikenstift,77.9,Hanover,2019
+Germany,87,München Klinik Neuperlach,77.5,Munich,2019
+Germany,88,Klinikum St. Marien Amberg,77.2,Amberg,2019
+Germany,89,Städtisches Klinikum Dresden Neustadt/Trachau,77,Dresden,2019
+France,1,Hôpital Universitaire Pitié Salpêtrière,87,Paris,2019
+France,2,Groupe hospitalier Pellegrin,86.9,Bordeaux,2019
+France,3,Groupe hospitalier Paris Saint-Joseph,86.6,Paris,2019
+France,4,Hôpital Henri-Mondor,86.6,Créteil,2019
+France,5,Centre Hospitalier Lyon Sud,86.4,Pierre-Bénite,2019
+France,6,Hôpital Européen,86.4,Marseille,2019
+France,7,Hôpital de la Timone,86.3,Marseille,2019
+France,8,Hôpital Purpan,86.1,Toulouse,2019
+France,9,Hôpital Cochin,85.7,Paris,2019
+France,10,Hôpital Claude-Huriez,85.7,Lille,2019
+France,11,Clinique Pasteur Toulouse,85.6,Haute-Garonne,2019
+France,12,Hôpital Saint-Antoine,85.6,Paris,2019
+France,13,Hôpital Bretonneau,85,Tours,2019
+France,14,Hôpital Tenon,85,Paris,2019
+France,15,Hôpital Européen Georges Pompidou,84.5,Paris,2019
+France,16,Hôpital Pontchaillou,84.4,Rennes,2019
+France,17,Clinique Saint-Augustin,84.4,Gironde,2019
+France,18,Hôpital Rangueil,84.3,Toulouse,2019
+France,19,Hôpital Roger Salengro,84.1,Lille,2019
+France,20,Hôpital Lapeyronie,84.1,Hérault,2019
+France,21,Institut mutualiste Montsouris,84,Paris,2019
+France,22,Hôpital Saint-Louis,84,Paris,2019
+France,23,Hôpital Lariboisière,83.8,Paris,2019
+France,24,Hôpital Beaujon,83.8,Clichy,2019
+France,25,Hôpital Pasteur,83.7,Nice,2019
+France,26,Hôpital Nord (Marseille),83.6,Marseille,2019
+France,27,Hôpital Bicêtre,83.5,Le Kremlin-Bicêtre,2019
+France,28,Hôpital de Hautepierre,83.5,Strasbourg,2019
+France,29,Centre Hospitalier Universitaire de Poitiers,83.5,Poitiers,2019
+France,30,Centre hospitalier universitaire Dijon Bourgogne,83.3,Dijon,2019
+France,31,Hôpital Paul Brousse,83.2,Villejuif,2019
+France,32,Hôpital Saint-André,83.1,Bordeaux,2019
+France,33,Centre Hospitalier Intercommunal de Créteil,83.1,Créteil,2019
+France,34,Hôpital Antoine Béclère,83.1,Clamart,2019
+France,35,Centre hospitalier régional d'Orléans,83.1,Orleans,2019
+France,36,Hôpital Pierre Wertheimer,83,Bron,2019
+France,37,Hôpital universitaire Robert Debré,82.9,Paris,2019
+France,38,Hôpital Clocheville,82.7,Tours,2019
+France,39,Hôpital Bichat - Claude-Bernard,82.6,Paris,2019
+France,40,Polyclinique Bordeaux-Nord Aquitaine,82.6,Bordeaux,2019
+France,41,Hôpital Central - Nancy,82.6,Nancy,2019
+France,42,Centre Hospitalier Annecy Genevois,82.5,Annecy,2019
+France,43,Hôpital Armand-Trousseau,82.3,Paris,2019
+France,44,Hôpital de Bois-Guillaume,82.1,Bois-Guillaume,2019
+France,45,Centre Hospitalier Universitaire de Caen,82,Caen,2019
+France,46,Centre Hospitalier Universitaire Grenoble Alpes,82,Grenoble,2019
+France,47,Centre Hospitalier de Valenciennes,81.8,Valenciennes,2019
+France,48,Hôpital Fernand-Widal,81.6,Paris,2019
+France,49,Centre Hospitalier Universitaire (Angers),80.9,Angers,2019
+France,50,CHU Gabriel-Montpied,80.5,Clermont-Ferrand,2019
+France,51,Hôpital de la Conception,80,Marseille,2019
+France,52,Centre Hospitalier - Le Mans,79.7,Le Mans,2019
+France,53,CHU Saint-Étienne Hôpital Nord,79.6,Saint-Priest-en-Jarez,2019
+France,54,Groupe Hospitalier de La Rochelle - Ré - Aunis,79.6,La Rochelle,2019
+France,55,Centre hospitalier de Chartres,79.5,Chartres,2019
+France,56,Hôpital Albert Schweitzer,79.2,Colmar,2019
+France,57,Hôpital privé Clairval,79.2,Bouches-du-Rhône,2019
+France,58,Clinique de l'Anjou,79,Maine-et-Loire,2019
+France,59,Centre Hospitalier Régional Metz-Thionville,78.9,Metz,2019
+France,60,Centre Hospitalier Privé Saint-Grégoire,78.5,Ille-et-Vilaine,2019
+France,61,Hôpital Robert Schuman,78.4,Vantoux,2019
+France,62,Clinique Rive-Gauche,78.3,Haute-Garonne,2019
+France,63,Clinique mutualiste de l’Estuaire - Saint-Nazaire,78.2,Saint-Nazaire,2019
+France,64,Hôpital privé Bois Bernard,78.2,Bois-Bernard,2019
+France,65,Centre hospitalier intercommunal de Cornouaille,77.9,Quimper,2019
+France,66,Hôpital Foch,77.8,Suresnes,2019
+France,67,Groupe hospitalier Diaconesses Croix-Saint-Simon,77.8,Paris,2019
+France,68,Hôpital Renée Sabran,77.8,Hyères,2019
+France,69,Hôpital Trousseau,77.7,Paris,2019
+France,70,Centre hospitalier (Saint-Brieuc),77.7,Saint-Brieuc,2019
+France,71,Hôpital Saint-Joseph,77.5,Marseille,2019
+France,72,Centre Hospitalier Universitaire Amiens-Picardie (Salouel),77.4,Amiens,2019
+France,73,Maison de Santé Protestante de Bordeaux-Bagatelle,77.3,Talence,2019
+France,74,Centre Hospitalier de Grasse,77.2,Grasse,2019
+France,75,Hôpital de la Croix-Rousse,77.2,Lyon,2019
+France,76,Hôpital Gui-de-Chauliac,77.1,Hérault,2019
+France,77,Hôpitaux de Brabois,77.1,Vandœuvre-lès-Nancy,2019
+France,78,Centre Hospitalier Régional Universitaire Besançon,77,Besançon,2019
+France,79,Clinique mutualiste Jules-Vernes,76.9,Loire-Atlantique,2019
+France,80,Hôpital Privé la Châtaigneraie,76.8,Puy-de-Dôme,2019
+France,81,Centre hospitalier Métropole Savoie,76.7,Chambéry,2019
+France,82,Hôpital Nord Laennec,76.6,Saint-Herblain,2019
+France,83,Hôpital de l’Archet,76.6,Nice,2019
+France,84,Hôpital Arnaud-de-Villeneuve,76.5,Hérault,2019
+Switzerland,1,CHUV Centre Hospitalier Universitaire Vaudois,91.5,Lausanne,2019
+Switzerland,2,"Les Hôpitaux Universitaires de Genève HUG, Cluse-Roseraie",90.3,Geneva,2019
+Switzerland,3,UniversitätsSpital Zürich,90.2,Zurich,2019
+Switzerland,4,Klinik Hirslanden Zürich,90.1,Zurich,2019
+Switzerland,5,Lindenhofspital Bern,90,Bern,2019
+Switzerland,6,Hirslanden Klinik Aarau,89.7,Aarau,2019
+Switzerland,7,Universitätsspital Basel,89.7,Basel,2019
+Switzerland,8,Inselspital Bern,89.6,Bern,2019
+Switzerland,9,Hirslanden Klinik St. Anna Luzern,89.5,Lucerne,2019
+Switzerland,10,Clinique Générale-Beaulieu,88.4,Geneva,2019
+Switzerland,11,Luzerner Kantonsspital - Standort Luzern,88.4,Lucerne,2019
+Switzerland,12,Stadtspital Triemli,88.4,Zurich,2019
+Switzerland,13,Hirslanden Klinik Beau Site,88,Bern,2019
+Switzerland,14,Bethesda Spital,88,Basel,2019
+Switzerland,15,Claraspital,87.9,Basel,2019
+Switzerland,16,Clinique de La Source Lausanne,87.7,Lausanne,2019
+Switzerland,17,Privatklinik Bethanien,87.6,Zurich,2019
+Switzerland,18,Zuger Kantonsspital,87.2,Baar,2019
+Switzerland,19,Hôpital Intercantonal de la Broye (HIB) - Payerne,86.8,Payerne,2019
+Switzerland,20,Clinique des Grangettes,86.7,Chêne­Bougeries,2019
+Switzerland,21,Hirslanden Klinik Im Park,86.6,Zurich,2019
+Switzerland,22,Hôpital du Jura - Delémont,86.6,Delémont,2019
+Switzerland,23,Hirslanden Clinique Cecil,86.5,Lausanne,2019
+Switzerland,24,HFR - Hôpital fribourgeois - Fribourg,86.2,Fribourg,2019
+Switzerland,25,Hirslanden Klinik Stephanshorn,86.2,St. Gallen,2019
+Switzerland,26,Spital Zollikerberg,86.2,Zollikerberg,2019
+Switzerland,27,Genolier Clinique,85.8,Genolier,2019
+Switzerland,28,Kantonsspital Winterthur,85.7,Winterthur,2019
+Switzerland,29,Kantonsspital St. Gallen - St. Gallen,85.6,St. Gallen,2019
+Switzerland,30,Regionalspital Emmental - Burgdorf,85.6,Burgdorf,2019
+Switzerland,31,Stadtspital Waid,85.4,Zurich,2019
+Switzerland,32,Kantonsspital Baden,84.9,Baden,2019
+Switzerland,33,Kantonsspital Baselland,84.7,Liestal,2019
+Switzerland,34,Groupement Hospitalier de l'Ouest Lémanique (GHOL) Nyon Hôpital,84.7,Nyon,2019
+Switzerland,35,Spital Thurgau AG - Kantonspital Frauenfeld,84.6,Frauenfeld,2019
+Switzerland,36,Hirslanden Salem Spital,84.5,Bern,2019
+Switzerland,37,Kantonsspital Aarau,84.1,Aarau,2019
+Switzerland,38,Solothurner Spitäler AG - Kantonsspital Olten,84.1,Solothurn,2019
+Switzerland,39,Spital Interlaken,83.7,Unterseen,2019
+Switzerland,40,Spital Muri,83.5,Muri,2019
+Switzerland,41,Spital Linth,83.4,Uznach,2019
+Switzerland,42,Spital Wallis - Spitalzentrum Oberwallis (SZO),83.4,Brig-Glis,2019
+Switzerland,43,Hôpital du Valais - Centre Hospitalier du Valais Romand - Hôpital de Sion,82.7,Sion,2019
+Switzerland,44,Kantonsspital Graubünden,82.3,Chur,2019
+Switzerland,45,Hirslanden Klinik Linde,82,Biel,2019
