@@ -1,0 +1,36 @@
+---
+title: "World's Best Hospitals"
+author: "Norman Bieri"
+date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+    source_code: "https://github.com/norman-ds/newsweek/#readme"
+    theme: cosmo
+---
+
+Newsweek shows the third year the World's Best Hospitals.
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(plotly)
+
+nw_hospitals <- read_csv('static/nw_hospitals.csv',
+    col_types = cols(Countryrank = col_integer(), 
+        Year = col_character()))
+
+#knitr::opts_knit$set(root.dir='.')
+```
+
+Row 
+---------------------------------------------------
+
+```{r chart, child='content/chart.Rmd'}
+```
+
+Row 
+---------------------------------------------------
+
+```{r chart, child='content/tablepreview.Rmd'}
+```

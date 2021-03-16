@@ -1,0 +1,74 @@
+### Ranking 2020 vs 2021
+
+```{r chart1}
+nwho <- nw_hospitals %>%
+  mutate(cy = interaction(Country, Year))
+
+nwho %>%
+  filter(Year > 2019) %>%
+  plot_ly(type = 'violin', 
+          points='outliers', 
+          orientation='h', 
+          hoverinfo = 'text') %>%  
+  add_trace(
+    x = ~Score[nwho$Year == 2020],
+    y = ~Country[nwho$Year == 2020],
+    text = ~Hospital[nwho$Year == 2020],
+    legendgroup = '2020',
+    scalegroup = '2020',
+    name = '2020',
+    side = 'negative',
+    box = list(
+      visible = T
+    ),
+    meanline = list(
+      visible = T
+    ),
+    color = I("steelblue2")
+  ) %>%
+  add_trace(
+    x = ~Score[nwho$Year == 2021],
+    y = ~Country[nwho$Year == 2021],
+    text = ~Hospital[nwho$Year == 2021],
+    legendgroup = '2021',
+    scalegroup = '2021',
+    name = '2021',
+    side = 'positive',
+    box = list(
+      visible = T
+    ),
+    meanline = list(
+      visible = T
+    ),
+    color = I("steelblue4")
+  ) %>%
+  layout(
+    xaxis = list(
+      title = ""  
+    ),
+    yaxis = list(
+      title = "",
+      zeroline = F
+    ),
+    violingap = 0,
+    violingroupgap = 0,
+    violinmode = 'overlay'
+  )
+```
+
+### Number of hospitals per caountry
+
+```{r chart2}
+p <- nw_hospitals %>%
+  count(Year, Country) %>%
+  ggplot(aes(fill=Year, y=n, x=Country)) + 
+  geom_col(position = position_dodge()) +
+  scale_fill_brewer(palette = 'Blues') +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  ylab('') +
+  xlab('')
+
+ggplotly(p)
+
+```
