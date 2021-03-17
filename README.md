@@ -50,10 +50,11 @@ The version list of the used R
 packages.
 
 ``` r
-libs <- c("RCurl","curl","jsonlite","readr","dplyr","purrr","ggplot2","lubridate","flexdashboard","DT","dygraphs","xts")
+libs <- c("RCurl","curl","readr","dplyr","purrr","ggplot2","flexdashboard","DT","plotly")
 ip <- installed.packages(fields = c("Package", "Version"))
 ip <- ip[ip[,c("Package")] %in% libs,]
 paste(ip[,c("Package")],ip[,c("Version")])
-#> [1] "curl 4.3"        "dplyr 0.8.5"     "DT 0.13"         "ggplot2 3.3.0"  
-#> [5] "jsonlite 1.6.1"  "lubridate 1.7.8" "purrr 0.3.4"     "readr 1.3.1"
+#> [1] "curl 4.3"              "dplyr 0.8.5"           "DT 0.13"              
+#> [4] "flexdashboard 0.5.1.1" "ggplot2 3.3.0"         "plotly 4.9.2.1"       
+#> [7] "purrr 0.3.4"           "RCurl 1.98-1.2"        "readr 1.3.1"
 ```

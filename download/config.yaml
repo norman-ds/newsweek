@@ -1,0 +1,38 @@
+--- 
+dateformat : "%Y-%m-%dT%H:%M:%S"
+outputpath : public
+mainfile : main.Rmd
+tmpdir : publictmp
+countries : c('Austria','Switzerland','Canada','France','Germany','USA')
+
+# Download
+net:
+ path : net
+ format : html
+ webpage_url : 'https://www.newsweek.com'
+
+# Build data
+build:
+ path : build
+ swissdata : nw_hospitals_swiss.csv
+
+restapi:
+ path : rest
+ restfile : api.json
+
+# Static data
+static:
+ path : static
+ staticlog : eventlog.csv
+ countryfile : nw_countries.csv
+ hospitalfile : nw_hospitals.csv
+
+# Content
+content:
+ path : content
+
+# Public
+public:
+ path : public
+ 
+

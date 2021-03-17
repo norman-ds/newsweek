@@ -1,0 +1,26 @@
+### Score of best Swiss hospitals
+
+```{r data}
+library(DT)
+nw_hospitals %>%
+  filter(Country == 'Switzerland') %>%
+  mutate(kz = case_when(
+    grepl('HUG', Hospital) ~ 'Les Hôpitaux Universitaires de Genève HUG, Cluse-Roseraie',
+    grepl('Vaudois', Hospital) ~ 'Centre Hospitalier Universitaire Vaudois',
+    grepl('Uni.*Zürich', Hospital) ~ 'Universitätsspital Zürich',
+    grepl('Luzerner', Hospital) ~ 'Luzerner Kantonsspital',
+    grepl('Gallen', Hospital) ~ 'Kantonsspital St.Gallen',
+    grepl('Beau.*Site', Hospital) ~ 'Hirslanden Klinik Beau-Site',
+    grepl('Anna', Hospital) ~ 'Hirslanden Klinik St.Anna',
+    grepl('Source', Hospital) ~ 'Clinique de La Source',
+    grepl('SZO', Hospital) ~ 'Spitalzentrum Oberwallis (SZO)',
+    grepl('HFR', Hospital) ~ 'HFR - Hôpital fribourgeois',
+    grepl('Frauen', Hospital) ~ 'Kantonsspital Frauenfeld',
+    TRUE ~ Hospital
+  )) %>%
+  select(Hospital=kz, Year, Score) %>%
+  pivot_wider(names_from = Year, values_from = Score) %>%
+  arrange_at(2:3, desc) %>%
+  datatable(filter = 'top', 
+    options = list(pageLength = 10, autoWidth = TRUE ))
+```

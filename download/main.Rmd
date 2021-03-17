@@ -1,6 +1,6 @@
 ---
 title: "World's Best Hospitals"
-author: "Norman Bieri"
+# author: "Norman Bieri"
 date: "`r Sys.Date()`"
 output: 
   flexdashboard::flex_dashboard:
@@ -19,9 +19,20 @@ library(plotly)
 nw_hospitals <- read_csv('static/nw_hospitals.csv',
     col_types = cols(Countryrank = col_integer(), 
         Year = col_character()))
+nw_hospitals$Country <- factor(nw_hospitals$Country,
+                                c('Austria',
+                                  'Switzerland',
+                                  'Canada',
+                                  'France',
+                                  'Germany',
+                                  'USA'))
 
 #knitr::opts_knit$set(root.dir='.')
 ```
+
+Main
+===================================== 
+
 
 Row 
 ---------------------------------------------------
@@ -29,8 +40,21 @@ Row
 ```{r chart, child='content/chart.Rmd'}
 ```
 
-Row 
+Row {data-height=410 .tabset .tabset-fade}
 ---------------------------------------------------
+
+```{r info, child='content/information.Rmd'}
+```
+
+```{r event, child='content/eventlog.Rmd'}
+```
+
+```{r rest, child='content/restful.Rmd'}
+```
+
+
+Table
+===================================== 
 
 ```{r chart, child='content/tablepreview.Rmd'}
 ```

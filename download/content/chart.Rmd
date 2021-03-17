@@ -1,16 +1,16 @@
-### Ranking 2020 vs 2021
+### Score 2020 vs 2021
 
 ```{r chart1}
-nwho <- nw_hospitals %>%
-  mutate(cy = interaction(Country, Year))
+nwho <- nw_hospitals 
 
-nwho %>%
+fig <- nwho %>%
   filter(Year > 2019) %>%
   plot_ly(type = 'violin', 
           points='outliers', 
           orientation='h', 
-          hoverinfo = 'text') %>%  
-  add_trace(
+          hoverinfo = 'text') 
+
+fig <- add_trace(fig,
     x = ~Score[nwho$Year == 2020],
     y = ~Country[nwho$Year == 2020],
     text = ~Hospital[nwho$Year == 2020],
@@ -24,9 +24,10 @@ nwho %>%
     meanline = list(
       visible = T
     ),
-    color = I("steelblue2")
-  ) %>%
-  add_trace(
+    color = I("steelblue1")
+  )
+
+fig <- add_trace(fig,
     x = ~Score[nwho$Year == 2021],
     y = ~Country[nwho$Year == 2021],
     text = ~Hospital[nwho$Year == 2021],
@@ -40,9 +41,10 @@ nwho %>%
     meanline = list(
       visible = T
     ),
-    color = I("steelblue4")
-  ) %>%
-  layout(
+    color = I("steelblue3")
+  )
+
+fig <- layout(fig,
     xaxis = list(
       title = ""  
     ),
@@ -54,9 +56,11 @@ nwho %>%
     violingroupgap = 0,
     violinmode = 'overlay'
   )
+
+fig
 ```
 
-### Number of hospitals per caountry
+### Number of hospitals
 
 ```{r chart2}
 p <- nw_hospitals %>%

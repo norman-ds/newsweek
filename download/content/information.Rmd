@@ -1,0 +1,7 @@
+### Dokumentation
+
+Newsweek published in march 2021 the third ranking of the world's best hospitals. The survey was conducted by Statista Inc. in 25 countries with around 2000 hospitals.
+
+This page shows the comparison of Swiss hospitals with surrounding countries and North America.
+
+The current Stata article can be found [here](https://www.newsweek.com/best-hospitals-2021) - and for [2020](https://www.newsweek.com/best-hospitals-2020) and [2019](https://www.newsweek.com/best-hospitals-2019)  
