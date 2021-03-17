@@ -32,7 +32,7 @@ sessionInfo()
 The version list of the used R packages.
 
 ```{R}
-libs <- c("RCurl","curl","jsonlite","readr","dplyr","purrr","ggplot2","lubridate","flexdashboard","DT","dygraphs","xts")
+libs <- c("RCurl","curl","readr","dplyr","purrr","ggplot2","flexdashboard","DT","plotly")
 ip <- installed.packages(fields = c("Package", "Version"))
 ip <- ip[ip[,c("Package")] %in% libs,]
 paste(ip[,c("Package")],ip[,c("Version")])
