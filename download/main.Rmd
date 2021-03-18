@@ -10,7 +10,6 @@ output:
     theme: cosmo
 ---
 
-Newsweek shows the third year the World's Best Hospitals.
 
 ```{r setup, include=FALSE}
 library(tidyverse)
@@ -53,7 +52,7 @@ Row {data-height=410 .tabset .tabset-fade}
 ```
 
 
-Table
+Data
 ===================================== 
 
 ```{r chart, child='content/tablepreview.Rmd'}

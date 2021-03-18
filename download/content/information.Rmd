@@ -2,6 +2,27 @@
 
 Newsweek published in march 2021 the third ranking of the world's best hospitals. The survey was conducted by Statista Inc. in 25 countries with around 2000 hospitals.
 
-This page shows the comparison of Swiss hospitals with surrounding countries and North America.
+**This page shows the comparison of Swiss hospitals with surrounding countries and North America.**
 
-The current Stata article can be found [here](https://www.newsweek.com/best-hospitals-2021) - and for [2020](https://www.newsweek.com/best-hospitals-2020) and [2019](https://www.newsweek.com/best-hospitals-2019)  
+[The current newsweek article can be found here](https://www.newsweek.com/best-hospitals-2021) - and for [2020](https://www.newsweek.com/best-hospitals-2020) and [2019](https://www.newsweek.com/best-hospitals-2019)  here.
+
+**Global Board of Medical Experts:**
+
+The board is an independent body that is tasked with the continuous development of the quality and scope of the project. [Current members of the board of experts are listed here](https://www.newsweek.com/best-hospitals-2020-board-experts).
+
+**Methodology:**
+
+> Scores are only comparable between hospitals in the same country
+
+... The countries were mainly selected based on standard of living/life expectancy, population size, number of hospitals and data availability. 
+
+The lists are based on three data sources:
+• Recommendations from medical experts (doctors, hospitals managers, health care professionals)
+• Results from patient surveys
+• Medical KPIs on hospitals
+• The number of hospitals awarded in each country varies based on the number of hospitals and data availability in the respective country...
+• Every hospital in each country is rated by a score.
+
+[A methodology overview and an extended methodology are listed here.](https://www.newsweek.com/best-hospitals-2021)
+
+
