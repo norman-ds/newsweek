@@ -1,5 +1,17 @@
 --- 
-dateformat : "%Y-%m-%dT%H:%M:%S"
+title: Best Hospitals Switzerland
+date: '2021-03-18'
+categories:
+  - Post
+tags:
+  - R
+  - HTML
+  - hospital
+  - ranking
+description: Newsweek shows the third year the World's Best Hospitals.
+draft: false
+
+dateformat : '%Y-%m-%dT%H:%M:%S'
 outputpath : public
 mainfile : main.Rmd
 tmpdir : publictmp

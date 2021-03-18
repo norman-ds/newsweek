@@ -1,12 +1,1 @@
-[
-  {
-    "display_name" : "Best Hospitals Switzerland",
-    "created" : "2021-03-15",
-    "download_url" : "nw_hospitals_swiss.csv",
-    "filename" : "nw_hospitals_swiss.csv",
-    "rest" : "csv",
-    "start_date" : "2019",
-    "end_date" : "2021",
-    "fid" : "fid00000001"
-  }
-]
+[{"display_name":"Best Hospitals Switzerland","created":"2021-03-18","download_url":"nw_hospitals_swiss.csv","filename":"nw_hospitals_swiss.csv","format":"csv","start_date":"2019","end_date":"2021"}]
