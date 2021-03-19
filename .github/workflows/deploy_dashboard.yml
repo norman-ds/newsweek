@@ -1,0 +1,86 @@
+# This is a basic workflow to deploy dashboard to gh-pages
+
+name: Deploy dashboard
+
+on:
+  # Trigger the workflow on push request,
+  # but only for the directory download in the main branch,
+  # and additionally every Wednesday morning
+  push:
+    branches:
+      - main
+ #   paths: 
+ #     - 'download/**'
+
+# Automatically download data whenever 
+# and commits the results to the main branch.
+jobs:
+  dashboard:
+    name: render2html
+    runs-on: ubuntu-latest
+    container: rocker/verse:3.6.3
+    continue-on-error: false
+    timeout-minutes: 10
+    
+    env:
+      working-directory: ./download
+    
+    steps:
+      # Checkout GitHub 'main'
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        
+      # Install R packages
+      - name: Install Flexdashboard
+        run: Rscript -e 'install.packages("flexdashboard")'
+      - name: Install plotly
+        run: Rscript -e 'install.packages("plotly")'
+      - name: Install DT
+        run: Rscript -e 'install.packages("DT")'
+
+      # Render with rmarkdown  
+      - name: Render HTML
+        run: Rscript ./R/build_site.R
+        working-directory: ${{ env.working-directory }}
+
+      # Upload web file to artifacts
+      - name: Upload results
+        uses: actions/upload-artifact@v2
+        with:
+          name: newpage
+          path: ${{ env.working-directory }}/public/
+          
+# For the first time, create an empty gh-pages branch
+# see https://pkgdown.r-lib.org/reference/deploy_site_github.html
+# and also add secrets for a GITHUB_PAT and EMAIL to the repository
+# gh-action from Cecilapp/GitHub-Pages-deploy
+  checkout-and-deploy:
+   runs-on: ubuntu-latest
+   needs: dashboard
+   
+   steps:
+      # Checkout GitHub 'master'
+     - name: Checkout
+       uses: actions/checkout@main
+
+      # Download web files to artifacts
+     - name: Download artifact
+       uses: actions/download-artifact@v2
+       with:
+         # Artifact name
+         name: newpage # optional
+         # Destination path
+         path: _site/ # optional
+      
+     - name: Show Dir
+       run: ls -R
+         
+     # Deploy to gh-pages
+     - name: Deploy to GitHub Pages
+       uses: Cecilapp/GitHub-Pages-deploy@v3
+       env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # https://github.com/settings/tokens
+       with:  
+          email: normandev@puntaminar.ch               # must be a verified email
+          build_dir: _site/                    # "_site/" by default
+
