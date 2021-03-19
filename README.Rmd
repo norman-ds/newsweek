@@ -15,6 +15,8 @@ knitr::opts_chunk$set(
 
 This is the third year that Newsweek has partnered with Statista Inc, the respected global data research firm, to reveal the World's Best Hospitals— and it may be our most important ranking yet.
 
+A comparison of Swiss hospitals with surrounding countries and North America can be found [here](https://norman-nw.netlify.app)
+
 ### DevOps
 
 RStudio's IDE is launched in a Docker and accessed through the browser (http://localhost:8787).
