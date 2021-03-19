@@ -1,5 +1,5 @@
 source,activity,timestamp,status,resource
-newsweek data 2021,check-in,2021-03-18T10:00:00,complete,newsweek
-newsweek data 2020,check-in,2021-03-18T10:00:00,complete,newsweek
-newsweek data 2019,check-in,2021-03-18T10:00:00,complete,newsweek
-newsweek dashboard,check-in,2021-03-15T10:00:00,complete,newsweek builder
+newsweek data 2021,check-in,2021-03-19T09:16:40,complete,newsweek
+newsweek data 2020,check-in,2021-03-19T09:16:40,complete,newsweek
+newsweek data 2019,check-in,2021-03-19T09:16:40,complete,newsweek
+newsweek service,check-in,2021-03-19T09:16:40,complete,newsweek service

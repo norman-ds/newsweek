@@ -1,4 +1,4 @@
-### Score of best Swiss hospitals
+### Scores of best Swiss hospitals
 
 ```{r data}
 library(DT)

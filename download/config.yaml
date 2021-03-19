@@ -1,14 +1,15 @@
 --- 
-title: Best Hospitals Switzerland
-date: '2021-03-18'
-categories:
+title : Best Hospitals Switzerland
+date : '2021-03-18'
+servicename : newsweek
+categories :
   - Post
-tags:
+tags :
   - R
   - HTML
   - hospital
   - ranking
-description: Newsweek shows the third year the World's Best Hospitals.
+description : Newsweek shows the third year the World's Best Hospitals.
 draft: false
 
 dateformat : '%Y-%m-%dT%H:%M:%S'
@@ -16,12 +17,6 @@ outputpath : public
 mainfile : main.Rmd
 tmpdir : publictmp
 countries : c('Austria','Switzerland','Canada','France','Germany','USA')
-
-# Download
-net:
- path : net
- format : html
- webpage_url : 'https://www.newsweek.com'
 
 # Build data
 build:
@@ -35,7 +30,6 @@ restapi:
 # Static data
 static:
  path : static
- staticlog : eventlog.csv
  countryfile : nw_countries.csv
  hospitalfile : nw_hospitals.csv
 
@@ -47,4 +41,15 @@ content:
 public:
  path : public
  
+# Eventlog
+events:
+ path : static
+ staticlog : eventlog.csv
+ entries:
+ - source : newsweek data 2019
+   resource : newsweek
+ - source : newsweek data 2020
+   resource : newsweek
+ - source : newsweek data 2021
+   resource : newsweek
 
